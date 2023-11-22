@@ -1,0 +1,60 @@
+<mj-include path="./marketing-header.mjml" />
+<!--  BODY -->
+	<mj-body>
+	<mj-section>
+	<mj-column>
+	<!-- BEGIN CONTENT --><mj-text>
+
+<h1>Your Colorado Sun membership is expired.</h1>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/09/Fifth-Anniversary-Twitter-2.png?w=800" href="https://coloradosun.com/join/?utm_source=marketing-acq&amp;utm_medium=email&amp;utm_campaign=ExpiredSept20232" target="_blank"/><mj-text>&nbsp;
+
+<p><a target="_blank"  href="https://coloradosun.com/join/?utm_source=marketing-acq&amp;utm_medium=email&amp;utm_campaign=ExpiredSept20232"><em>Take a minute to rejoin today!</em></a></p>
+
+&nbsp;<hr />&nbsp;
+
+<p>Good afternoon,</p>
+
+<p><strong>The Colorado Sun turned five years old on September 10th.</strong> It&#8217;s just one of the milestones we&#8217;re reaching this month — last weekend we also celebrated our 100th edition of Colorado Sunday, our weekly weekend newsletter for members, and next week we are hosting our inaugural SunFest. We also recently announced that we are in the process of changing from a public benefit corporation to a nonprofit. With your support, we&#8217;ve accomplished a lot, but we have so much more ahead of us. All of this is possible because our members like you support The Sun.</p>
+
+<p><strong>Your membership recently expired. </strong>We&#8217;re counting on our members to stick with us as we look to the future. <strong>Will you consider rejoining today?</strong></p>
+
+<p><strong>We have more stories to tell. </strong>When you rejoin as a member, you will not only regain access to member benefits, but you&#8217;ll be contributing to The Sun&#8217;s strength as a trusted local news outlet. Members power The Sun, and Basic Plus and Premium level members have access to member newsletters:</p>
+
+</mj-text>
+<mj-table>
+	<tr style="border:2px solid white;">
+	<td style="padding: 6px;text-align:center;font-size:22px;background-color:#fcd232;font-weight:bold;" width="40%">Colorado Sunday</td><td style="font-size:14px;padding:12px;color:#000000;background-color:#DCEEF2;" width="60%">Your slow weekend read. <em>Basic Plus member level and above</em></td></tr>
+
+
+	<tr style="border:2px solid white;">
+	<td style="padding: 6px;text-align:center;font-size:22px;background-color:#fcd232;font-weight:bold;" width="40%">The Unaffiliated</td><td style="font-size:14px;padding:12px;color:#000000;background-color:#DCEEF2;" width="60%">All Politics. No Agenda. <em>Premium member level</em></td></tr>
+
+
+	<tr style="border:2px solid white;">
+	<td style="padding: 6px;text-align:center;font-size:22px;background-color:#fcd232;font-weight:bold;" width="40%">The Outsider</td><td style="font-size:14px;padding:12px;color:#000000;background-color:#DCEEF2;" width="60%">The outdoor industry from the inside out. <em>Premium member level</em></td></tr>
+
+
+	<tr style="border:2px solid white;">
+	<td style="padding: 6px;text-align:center;font-size:22px;background-color:#fcd232;font-weight:bold;" width="40%">The Temperature</td><td style="font-size:14px;padding:12px;color:#000000;background-color:#DCEEF2;" width="60%">Climate &amp; health, and where they intersect. <em>Premium member level</em></td></tr>
+
+
+	<tr style="border:2px solid white;">
+	<td style="padding: 6px;text-align:center;font-size:22px;background-color:#fcd232;font-weight:bold;" width="40%">Mike Littwin</td><td style="font-size:14px;padding:12px;color:#000000;background-color:#DCEEF2;" width="60%">An exclusive first look at Mike&#8217;s opinion column. <em>Premium member level</em></td></tr>
+</mj-table>
+
+<mj-button href="https://coloradosun.com/join/?utm_source=marketing-acq&amp;utm_medium=email&amp;utm_campaign=ExpiredSept20232" target="_blank">Rejoin as a Member</mj-button><mj-text>
+
+<p>Thank you for being a part of our journey. At a time when local news publications across the country continue to close, community support is more important than ever. I hope you&#8217;ll rejoin today to help us continue sharing important Colorado stories. Have a great weekend!</p>
+
+<p>Gratefully,</p>
+
+</mj-text><mj-table padding-top="0" margin-top="0"><tr><td style="padding:0px;font-size:14px;text-align:right;" width="33%"><strong>>></strong></a></td><td style="padding: 6px 6px;" width="24px"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/07/IMG_2973-1.jpg?resize=48,48" /></td><td style="padding:0px;font-size:14px;"><a target="_blank"  target="_blank"  target="_blank"  href="https://coloradosun.com/author/lauren-whynott/" target="_blank" style="text-decoration:none;color:black;"/><span style="border-bottom:1px solid #fcd232;"><strong>Lauren Whynott</strong> <em>Director of Membership, Marketing & Audience Engagement</em></a></td></tr></mj-table>
+<mj-text>
+
+<p><strong>P.S. </strong><a target="_blank"  href="https://coloradosun.com/join/?utm_source=marketing-acq&amp;utm_medium=email&amp;utm_campaign=ExpiredSept20232">Rejoin as a member at the Basic Plus or Premium level by tonight at midnight</a> to ensure you will receive this weekend&#8217;s Colorado Sunday newsletter.</p>
+
+<p><em>Note: If your Sun membership is current, you shouldn&#8217;t be getting this message. Please reply or email support@coloradosun.com and we&#8217;ll take care of it. If you would like phone support, please reply with your phone number.</em></p>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

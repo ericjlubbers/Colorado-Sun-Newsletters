@@ -1,0 +1,57 @@
+ <!-- FONTS -->
+    <mj-font name="Libre Franklin" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100;200;400;700;900" />
+    <mj-font name="Martel" href="https://fonts.googleapis.com/css2?&family=Martel:wght@200;400;700;900&display=swap" />
+    <mj-attributes>
+      <!-- MAILING STYLE -->
+      <mj-body background-color="#F5F5F5" />
+      <mj-column background-color="#ffffff" padding="18px 0px" />
+      <mj-class name="footercolumn" background-color="#F5F5F5" />
+      <mj-section padding="12px 0px" />
+      <!-- BUTTON STYLE -->
+      <mj-button background-color="#d43f1f" font-family="'Libre Franklin',Arial,Helvetica,'Helvetica Neue',sans-serif;" font-weight="700" color="white" align="center" border-radius="15px" />
+      <!-- DIVIDER STYLE -->
+      <mj-divider border-width="2px" border-color="#fcd232" />
+      <!-- TEXT STYLES -->
+      <mj-all font-family="'Martel',Georgia,serif;" font-size="16px" line-height="1.5" />
+      <mj-class name="footer" font-family="'Libre Franklin',Arial,Helvetica,'Helvetica Neue',sans-serif;" font-weight="200" color="#6E6E6E" align="center" />
+      <!-- IMAGE STYLES -->
+      <mj-class name="biglogo" width="200px" />
+      <mj-class name="tinylogo" width="150px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+     a {color:#003D5A;}
+     .shadow { text-shadow: 0px 0px 30px rgba(150, 150, 150, 1); }
+     .bluehead {background-color:#134258;padding:.5em;color:#ffffff;}
+     .highlight {background-color:#fcd232;color:#212121;}
+     @media (prefers-color-scheme: dark) { .highlight {background-color:#fcd232;color:#212121;} }
+     ul {padding-left:20px;}
+     li {margin-left:0;padding-bottom:12px;}
+     h1 {font-family:'Martel',Georgia,serif;line-height:1.5em;font-size:28px;font-weight:900;}
+     h2 {font-weight:900;line-height:1.3;padding-bottom:0;margin-bottom:0;}
+     h3 {padding:16px 26px;font-family:'Libre Franklin',Arial,Helvetica,'Helvetica Neue',sans-serif;font-weight:700;background-color:#fcd232;color:#111;font-size:20px;text-align:left;text-transform:uppercase;}
+     .section-description {font-size:14px;text-transform:uppercase;color:#111;font-weight:100;}
+     h4 {font-family:'Libre Franklin',Arial,Helvetica,'Helvetica Neue',sans-serif;font-weight:900;color:#d43f1f;padding-bottom:6px;}
+     hr {border-bottom:solid 2px #fcd232;border-top:none;}
+     blockquote {width:90%;max-width:500px;border-left: 4px double #fcd232;padding: 12px 20px;margin-left:0;font-size:16px;line-height:1.5em;font-family:'Martel',Georgia,serif;font-weight:bold;}
+     blockquote.block {font-size:16px;line-height:1.5em;font-family:'Martel',Georgia,serif;font-weight:bold;}
+     h2 > a {text-decoration:none;color:#003D5A;font-weight:900;}
+     li > a > strong {font-weight:900;}
+     p > a > strong {font-weight:900;}
+     p.caption {font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;}
+      .pullquote-source {font-size:12px;font-family:'Libre Franklin',Arial,Helvetica,'Helvetica Neue',sans-serif;font-weight:normal;}
+     tr.bignumber {border:2px solid white;}
+     td.bignumber {font-family:'Libre Franklin',Arial,sans-serif;padding: 12px;text-align:center;font-size:24px;font-weight:900;font-weight:700;background-color:#fcd232;text-align:center;color:#111111;}
+     td.bignumber-source {font-family:'Libre Franklin',Arial,sans-serif;font-size:16px;padding:12px 12px 12px 16px;color:#111111;background-color:#ffffff;}
+     .byline-0-single tr {text-align:right;}
+     .byline-0-single td.mugshot{padding: 6px 3px;width:50px;}
+     .byline-0-single img.mugshot {width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;}
+     .byline-0-single td.name {padding: 6px;text-align:right;}
+     .byline-0-single td.name strong {font-weight:900;}
+     .byline-0-single .jobtitle {font-size:12px;font-family:'Libre Franklin',serif;}
+     tr.byline-1 {text-align:right;}
+     .byline-1 td.name {font-size:12px}
+     .byline-1 td.name strong {font-weight:900;}
+     .byline-1 img.mugshot {width:36px;height:36px;border:0px solid #fcd232;border-radius:50%;}
+     .byline-1 td.mugshot {padding: 6px 6px;width:36px;}
+     .subhead {font-family:'Libre Franklin',Arial,sans-serif;color:#111;}
+</mj-style>

@@ -1,0 +1,166 @@
+<mj-include path="./sunday-header.mjml" />
+<!--  BODY -->
+<mj-body>
+<mj-section>
+<mj-column>
+
+<!-- BEGIN CONTENT -->
+
+<mj-raw>*|IF:ARCHIVE_PAGE|*</mj-raw><mj-image padding="0px 24px;" href="https://coloradosun.com/sunday?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/12/coloradosunday_CTA_topper@1600x-80.jpg?w=1200"/><mj-raw>*|END:IF|*</mj-raw>
+<!-- COVER -->
+</mj-text><mj-image href="*|ARCHIVE_LINK|*" padding="0px 24px"src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/coloradosunday_20231119_cover.jpg?w=1200" />
+<mj-text font-size="10px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><p style="color:#6E6E6E;font-size:10px;font-weight:400;"><a target="_blank"  target="_blank" href="*|ARCHIVE_LINK|*" target="_blank">CLICK TO READ IN YOUR BROWSER</a></p></mj-text>
+<mj-divider />
+<!-- END COVER --><mj-text>
+
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">G</span>ood Colorado Sunday morning, friends. I hope you enjoy the last few days before the winter holiday season ramps up in earnest.</p>
+
+<p>It hardly seems possible that four years could have elapsed since I was planning a New Year&#8217;s roadtrip from my home in Colorado to the misty peninsula south of San Francisco. It&#8217;s a long drive across the Southwest, even with two drivers. My copilot had only cheap desert real estate on his mind. A date shake in Palm Springs was on mine.</p>
+
+<p>My one requirement was that we include Yuma, Arizona, on our route, to see where the mighty Colorado River splits and winds into Mexico in its natural channel and to the Imperial Irrigation District of California in a straight concrete canal cut through actual sand dunes. It was surprising to read city park signs noting the old days, when the river not yet controlled by the Laguna, Hoover and Glen Canyon dams was so full that steamships were able to navigate. It was shocking to see fields of lettuce and spinach irrigated with Colorado River water growing snug against the hard desert in January.</p>
+
+<p>This all happened just as the West was entering its second decade of searing drought and lakes Mead and Powell were frighteningly low. Two years later, the Colorado River System was in full-fledged crisis. This week&#8217;s cover story, our first collaboration with <strong>Jerd Smith</strong> of <strong>Fresh Water News, </strong>dives into the politics and economics that allowed the two largest reservoirs in the U.S. to fall into the danger zone.</p>
+
+<!-- BYLINE --></mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" href="https://coloradosun.com/author/dana-coffield/" width="48px" height="48px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2019/07/DANAMUGKS.jpg?resize=96,96"/></td> <td style="padding: 6px;"><strong>Dana Coffield</strong><br /><em><span style="font-size:12px;">Senior Editor</span></em></td></tr></mj-table><mj-text>&nbsp;
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/10/FB_23_COGD_300x250_MakeADifference_m1.jpeg" width="300px" href="https://cosun.co/3sbsJck" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">The Cover Story</h2></td></tr></mj-table><mj-text>
+
+<h2><strong>&gt;&gt; Drought, politics and bad planning along the Colorado River</strong></h2>
+
+</mj-text><mj-image href="https://coloradosun.com/2023/11/19/colorado-river-lake-mead-lake-powell-dry" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/Blue-Mesa-011.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Elk Creek Marina on Blue Mesa Reservoir on Nov. 13, 2023. In 2022, the marina was forced to close because of low water levels. (Dean Krakel, Special to The Colorado Sun)</p></mj-text><mj-text>
+
+<p>The Colorado River Basin had been in a drought-weary world of hurt since the early 2000s, but, wow, in 2020 did things take a turn for the worse. Suddenly, lakes Powell and Mead were plummeting, hydropower production was slumping, and almost overnight the federal government began ordering massive emergency releases from reservoirs in our neck of the woods, such as Blue Mesa, to prevent them from going dry.</p>
+
+<p>And suddenly the question of the day was: What went wrong?</p>
+
+<p>To answer that question, Fresh Water News began talking to experts inside and outside the system to understand how the nation&#8217;s two largest reservoirs nearly went dry.</p>
+
+<p>Even more important now, is whether the army of negotiators working on two rescue plans designed to keep the river flowing now and into a much drier future, can keep it from happening again.</p>
+
+<p><strong>&gt;&gt; </strong><a target="_blank"  href="https://coloradosun.com/2023/11/19/colorado-river-lake-mead-lake-powell-dry?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email"><strong>READ THIS WEEK'S COLORADO SUNDAY COVER STORY</strong></a></p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Jerd Smith</strong> | <em><span style="font-size:12px;">Fresh Water News</span></em></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" href="https://coloradosun.com/author/jerd-smith/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/08/Jerd-Smith-e1700251500694.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/10/2023-Open-Enrollment-Event-300-x-250-px.png" width="300px" href="https://cosun.co/402NhA6" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">The Colorado Lens</h2></td></tr></mj-table><mj-text>
+
+<p>In case you missed it, we&#8217;ve curated our own visual feed of reporting to catch you up. Here are a few of our favorite shots of everyday places, people and moments from across Colorado this month.</p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Olivia Sun</strong> | <em><span style="font-size:12px;">Staff Photographer</span></em></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" href="https://coloradosun.com/author/olivia-sun/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/04/Olivia-Sun.jpg?resize=1366,1366?resize=96,96" /></td></tr></mj-table><mj-text>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/Cora-001.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Marisela Ballesteros, 26, works to color a client&#8217;s hair at Salon 144 on Nov. 4 in Gunnison. Ballesteros, a Cora Indian, was elected to the Gunnison town council in the recent election. Gunnison is believed to have the largest Indigenous Cora population in the U.S., as residents emigrated from the Sierra Madre Occidental Mountains of the Nayarit region in Mexico. (Dean Krakel, Special to The Colorado Sun)</p></mj-text><mj-text>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/Lens_HC_01.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">A field is filled with machine-made snow at the Frisco Nordic Center on Nov. 16 in Frisco. The Nordic Center, which has 30 kilometers of ski trails, aims to open in early December, depending on snow conditions. (Hugh Carey, The Colorado Sun)</p></mj-text><mj-text>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/vista-mirror-image-arts-os-5-scaled.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Coordinators at Mirror Image Arts help high school school students brainstorm a mock marketing campaign during a theater and improvisation class Nov. 9 at Vista Academy in Denver. The Arvada nonprofit works with students in schools and detention centers to promote social-emotional skills in the arts. (Olivia Sun, The Colorado Sun via Report for America)</p></mj-text><mj-text>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/H9A0325.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Lauren McCaffrey enters brew data onto a spreadsheet Nov. 10 at Weldwerks Brewery in Greeley. WeldWerks was established in 2015 and operates two 15-barrel and 30-barrel steam brewhouses. (Jeremy Sparig, Special to The Colorado Sun)</p></mj-text><mj-text>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/club-q-reflect-one-year-os-7-scaled.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">Ashtin Gamblin plays with one of her dogs, Balto, on Nov. 16 at home in Colorado Springs. Gamblin was shot nine times during an attack Nov. 19, 2022, at Club Q, where five people were killed. Gamblin now volunteers at VictimsFirst, a nonprofit helping victims of mass shootings, and cares for seven pets with her husband. (Olivia Sun, The Colorado Sun via Report for America)</p></mj-text><mj-text>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/300x250-Ad_Energy-Outreach-Colorado.png" width="300px" href="https://cosun.co/3sr1uum" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">Flavor of the Week</h2></td></tr></mj-table><mj-text>
+
+<h2><strong>&gt;&gt; Easing into the season on skinny skis</strong></h2>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/IMG_1884-copy-scaled.jpg?w=1200" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+<mj-text padding="0px 0px 0px 0px"><p class="cutline">A skier makes an early-season run on a groomed trail at the community-managed Grand Mesa Nordic center. (Handout)</p></mj-text><mj-text>
+
+<p>John Denver once said, "The only real skiers in Colorado are Nordic skiers." Actually, no he didn't, that we know of. But he might as well have because this time of year, in a year like this, when the big snows are holding out for actual winter, any truly diehard resort skier awaiting snow not made by machines would do well to follow the way of the Nordic skier and don whatever mishmash of wool-knicker/floppy boot/skinny ski gear they can find and head out into the nearest (safe, low angle, non-avalanche prone) snow-covered woods.</p>
+
+<p>Scoff if you want, but pre-Thanksgiving Nordic skiing is the heart of Colorado skiing. If you don&#8217;t believe us, consider these three reasons:</p>
+
+<p>First, Nordic gets you outside in nature, on skis, without requiring much snow or technique beyond that required in hiking (assuming your chosen terrain is flat, you don&#8217;t have to herringbone or snowplow and you have a decent sense of balance).</p>
+
+<p>Second, it&#8217;s relatively cheap. It&#8217;s free in any national forest. At a center with groomed trails it runs somewhere between &#8220;donation please&#8221; for a pass at the <a target="_blank"  href="https://gmnc.org/">community-run Grand Mesa Nordic center</a> to $50 for a trail pass and rentals at <a target="_blank"  href="https://cbnordic.org/?gclid=CjwKCAiAu9yqBhBmEiwAHTx5p_f1tA9eXt4-0xGO0jWz0axcnLOX-b5SIcnN-_lCNwLzTmDh5dms1BoCuD4QAvD_BwE">Crested Butte Nordic</a>. (Both are currently open.)</p>
+
+<p>Third, it&#8217;s the ultimate accessible retro sport if you want it to be — think wooden boards and three-pin bindings salvaged from the Goodwill, say, in Leadville, and boots, poles, wool knickers, wool sweater and <a target="_blank"  href="https://en.wikipedia.org/wiki/Bota_bag">bota bag</a> borrowed from your great-uncle Euclid in Evergreen. And best of all, Nordic gets you primed for Alpine and even backcountry skiing by creating a fitness base that you can build on.</p>
+
+<p>So on this upcoming holiday week, consider skipping the early-season resort skiing for skiing born 5,000 years ago in China that is alive and well anywhere in <a target="_blank"  href="https://coloradosun.com/2019/08/29/leitner-poma-ski-war-gondolas/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">Colorado there isn&#8217;t a bullwheel</a>.</p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Tracy Ross</strong> | <em><span style="font-size:12px;">Reporter</span></em></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" href="https://coloradosun.com/?author_name=tracy-ross" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/02/TracyRoss_04.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">SunLit: Sneak Peek</h2></td></tr></mj-table><mj-text>
+
+<h2><strong>&gt;&gt; </strong><a target="_blank"  href="https://coloradosun.com/2023/11/19/sunlit-branded-graves-randi-samuelson-brown/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email"><strong>In &#8220;Branded Graves,&#8221; a woman's homecoming puts her in the midst of gunfire</strong></a></h2>
+
+</mj-text><mj-image href="https://coloradosun.com/2023/11/19/sunlit-branded-graves-randi-samuelson-brown/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/branded_graves_bighorn.jpg?w=1200" padding="0px 0px 0px 0px" width="300px"/><mj-text>
+
+&nbsp;<!-- Blockquote -->
+<blockquote>&#8220;Hide remained attached in pieces and strips, but the brains were since devoured or dried up — the elongated jaw stretched into a gruesome and cadaverous grin. No, that skull didn&#8217;t carry any welcome, but rather a stark warning of gore and carnage. The steer skull offered a declaration of how the West used to be, and the message was simple. <em>Keep out</em> or be prepared to go down swinging.&#8221;<br /><br /><span class="source">— From &#8220;Branded Graves&#8221;</span></blockquote>
+
+<p><strong>EXCERPT:</strong> Author <strong>Randi Samuelson-Brown</strong> takes delight in describing her characters&#8217; surroundings, and that joy is on full display in the opening of &#8220;Branded Graves,&#8221; when brand inspector Emory Cross returns to her family&#8217;s embattled Lost Daughter Ranch. But not long after she reunites with her combative father, the two are under fire — literally — from persons unknown, and will soon be embroiled in a range war.</p>
+
+<p>&gt;&gt; <a target="_blank"  href="https://coloradosun.com/2023/11/19/sunlit-branded-graves-randi-samuelson-brown/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email"><strong>READ THE SUNLIT EXCERPT</strong></a></p>
+
+<p><strong>THE SUNLIT INTERVIEW: </strong>Although Samuelson-Brown&#8217;s books — this is the second volume in her &#8220;Dark Range&#8221; series — explore issues endemic to the American West, she enjoys peeling away history to reveal the many connections between current issues and those that defined the region&#8217;s wilder times. A sense of place is central to her plotlines. And she takes pains to make those places as vivid as possible. Here&#8217;s a slice of her Q&amp;A:</p>
+
+<p><strong>SunLit: Which do you enjoy more as you work on a book — writing or editing?</strong></p>
+
+<p><strong>Samuelson-Brown: </strong>Editing! I figure that I can always make my writing better. I love writing scenery, and it takes time and a few passes to create word descriptions that convey what I see in my mind&#8217;s eye.</p>
+
+<p>&gt;&gt; <a target="_blank"  href="https://coloradosun.com/2023/11/19/sunlit-randi-samuelson-brown-branded-graves/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email"><strong>READ THE INTERVIEW WITH RANDI SAMUELSON-BROWN</strong></a></p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Kevin Simpson</strong> | <em><span style="font-size:12px;">Writer</span></em></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" href="https://coloradosun.com/author/kevin-simpson/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2018/08/IMG_0426.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/10/202310_HCPF_CS300x2501_202310_HCPF_CS300x250_1.jpeg" width="300px" href="https://cosun.co/3QA4RIL" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><!-- Section Header -->
+<mj-table><tr style="text-align:left;"><td style="padding:0px;width:36px;border-bottom:2px #0069A7 solid;"><img style="width:36px;height:36px;padding:0;" width="36px" height="36px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/10/Colorado-Sunday-Section-flag-square.jpg" /></td><td style="padding:0px 0px 0px 12px;border-bottom:2px #0069A7 solid;" height="36px"><h2 class="sectionhed">Sunday Reading List</h2></td></tr></mj-table><mj-text>
+
+<p><em>A curated list of what you may have missed from The Colorado Sun this week.</em></p>
+
+</mj-text><mj-image href="https://coloradosun.com/2023/11/16/colorado-dog-rich-more-death/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/AP23320853440418.jpg?w=1200" width="350" padding="0px 0px 0px 0px" />
+<!-- Cutline -->
+  <mj-text padding="0px 0px 0px 0px"><p class="cutline">We are dog people at Colorado Sunday so must share the sweet, sad story of Finney, a Jack Russell terrier who <a href="https://coloradosun.com/2023/11/16/colorado-dog-rich-more-death/" target="_blank">survived 10 weeks guarding over her owner</a>, Rich Moore, who died while hiking in the mountains. (Dana Holby via AP)</p></mj-text><mj-text>
+
+<p>🌞 The thing about Proposition HH is that <a target="_blank"  href="https://coloradosun.com/2023/11/15/colorado-property-taxes-proposition-hh-backstory/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">even the people who stood up to back the complicated plan to ease Colorado&#8217;s property tax burden</a> had their doubts, <strong>Jesse Paul</strong> reports. This weekend an almost identical bill — minus relief for <a target="_blank"  href="https://coloradosun.com/2023/11/16/colorado-property-taxes-special-session-bill/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">commercial property owners and absent help for some special taxing districts</a> — is being debated during a special legislative session. Lawmakers hoped to complete the work today, but won't thanks to a parliamentary slap fight that happened Friday night. You can find the results, reported by Jesse and <strong>Brian Eason, </strong>whenever they land, at <a target="_blank"  href="https://coloradosun.com/">coloradosun.com</a>.</p>
+
+<p>🌞 Yes, we all are annoyed by $15 restaurant burgers. But in the latest story in our <a target="_blank"  href="https://coloradosun.com/high-cost-colorado/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">&#8220;High Cost of Colorado&#8221;</a> series, <strong>Tamara Chung</strong> explains <a target="_blank"  href="https://coloradosun.com/2023/11/13/average-hamburger-cost-colorado/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">it could be $6 worse</a>. And probably should be.</p>
+
+<p>🌞 About 80 Venezuelan migrants, most of whom arrived in Denver by bus this year, got themselves up to Carbondale in search of jobs paying more than they were earning in the city. <a target="_blank"  href="https://coloradosun.com/2023/11/14/venezuelan-migrants-carbondale/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">Some have found work, but none of them have housing</a>, <strong>Jennifer Brown</strong> and <strong>Samuel Bernal</strong> reported.</p>
+
+<p>🌞 More than 10,500 Colorado kids in grades 7 through 12 dropped out during the 2021-22 school year. Experts and educators told <strong>Erica Breunlin</strong> they <a target="_blank"  href="https://coloradosun.com/2023/11/13/colorado-schools-dropout-rate-increases/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">blame the COVID pandemic for damaging students&#8217; connection to their schools</a>.<strong></strong></p>
+
+<p>🌞 A Western Slope coalition is making a play to <a target="_blank"  href="https://coloradosun.com/2023/11/02/xcel-energy-water-rights-colorado-river-shoshone/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">buy the water rights of a small hydropower plant</a> with a big role in how water moves across Colorado. <a target="_blank"  href="https://coloradosun.com/2023/11/16/western-slope-coalition-historic-colorado-river-water-rights-users-state/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">If the group succeeds, farmers, water providers, anglers and rafters say they could sleep more easily for years</a> into the future. But as <strong>Shannon Mullane</strong> reports, there are big questions around the deal.</p>
+
+<p>🌞 Today is the first anniversary of the Club Q shooting in Colorado Springs. <strong>Olivia Prentzel</strong> caught up with <a target="_blank"  href="https://coloradosun.com/2023/11/17/club-q-survivors-reflect-one-year-remembrance/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">three survivors of the hate-filled attack on the LGBTQ bar</a> who told her they are forever changed, but more empowered than ever.</p>
+
+<p>🌞 Fun fact: In 30 years, movies made by the three major ski film companies — Warren Miller Entertainment, Teton Gravity Research and Matchstick Productions — have featured one woman skier for every 15 men. <strong>Parker Yamasaki</strong> checked in <a target="_blank"  href="https://coloradosun.com/2023/11/17/advice-for-girls-women-skiing/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">with the makers of an all-woman ski film, &#8220;Advice for Girls,&#8221;</a> who are working to change that frustrating narrative.<strong></strong></p>
+
+</mj-text><mj-table><tr style="border-bottom:1px solid #fcd232;text-align:right;"><td style="padding:0px;font-size:12px"><strong>— Dana Coffield</strong></td><td style="padding: 6px 6px;width:24px;"><img style="width:24px;height:24px;border:0px solid #fcd232;border-radius:50%; padding:0;" width="24px" height="24px" align="center" href="https://coloradosun.com/author/dana-coffield/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2019/07/DANAMUGKS.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/10/23Bellco_1123_Boost_4.50_COSun-Newsletters_300x250_Animated_F.gif" width="300px" href="https://cosun.co/49ateEa" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+<p>Thanks for spending another Colorado Sunday with us. As always, we&#8217;re grateful for your time and your support. If you observe Black Friday, Nov. 24 will be the day to get a <a target="_blank"  href="https://store.coloradosun.com/collections/frontpage/products/basic-colorado-sun-membership-1-year-1">gift membership for a friend at a 20% discount</a> or score some <a target="_blank"  href="https://store.coloradosun.com/collections/frontpage/products/new-colorado-sunday-mug">Colorado Sun merch for 50% off</a>. See you here again next week!</p>
+
+<p><em>— Dana &amp; the whole staff of The Sun</em></p>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/10/CoSun-Ad-2023.png" width="300px" href="https://cosun.co/40qnZwg" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+<!-- FOOTER -->
+</mj-text>
+</mj-column>
+</mj-section>
+<mj-include path="./sunday-footer.mjml"/>

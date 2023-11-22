@@ -1,0 +1,158 @@
+<mj-include path="./working-header.mjml" /><mj-section><mj-column><mj-text>
+*|IF:MEMBERSHIP = 0|*</mj-text><mj-button href="https://coloradosun.com/join?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">Support good journalism. Become a member!</mj-button><mj-text>*|END:IF|*
+<p style="color:#949494;"><strong><em>*|DATE:l, F j, Y|*</em></strong></p>
+
+
+<h1>What&#8217;s Working: Boulder County adopts new minimum wage starting in January</h1>
+
+<p><em>The new $15.69/hr wage only applies to unincorporated Boulder County. Plus: Three Front-Range populations decline, time to vote and more!</em></p>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr style="border-top:1px solid #fcd232;border-bottom:1px solid #fcd232;text-align:left;"><td style="padding: 6px 3px;width:50px;"><img style="width:48px;height:48px;border:1px solid #fcd232;border-radius:50%; padding:0;" width="48px" height="48px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2018/07/Tamara6-2-1.jpg?resize=96,96"/></td><td style="padding: 6px;"><strong>Tamara Chuang</strong><br /><a target="_blank"  href="https://coloradosun.com/author/tamara-chuang/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"><em><span style="font-size:12px;">Business/Technology Reporter</span></em></a></td></tr></mj-table><mj-text>
+
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">I</span>t&#8217;s been a rough few years for Boulder County, which experienced one of the greatest population declines in Colorado since 2020. New data had the State Demography Office revising past estimates, which were shared Friday at the annual State Demography Summit.</p>
+
+<p>&#8220;The Front Range region had much of the population growth. But not every county in the Front Range. Denver, Jefferson County and Boulder County had population losses during this two-year period,&#8221; Nancy Gedeon, a demographer in the state&#8217;s Demography Office, said during the event.</p>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/11042023-Front-Range-population-change-2020-2022.png?w=800" href="https://public.flourish.studio/visualisation/15610070/" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Three Front Range counties saw a population decline between 2020 to 2022. Red shows declines while green is growing. Click on the map to see the population in the counties by year.</em></span></p>
+
+<p>Boulder&#8217;s population is down 1.1% from where it was in 2020 and Gedeon attributed the change to residents (namely college students) scattering during the pandemic and the Marshall fire. Jefferson County had the highest decline in the Front Range, down 1.2%, and that was due to an older population with more deaths.</p>
+
+<p>&#8220;We always revise backwards,&#8221; Gedeon said. &#8220;And the data that we got from the U.S. census on migration did have some significant changes in their data for 2020 and 2021. So much so that the estimate that we provided last year for the state for July of 2021 has now been revised down by 3,600 people.&#8221;</p>
+
+<p>But people living in group quarters are returning, so future revisions could see a change for Boulder County. What&#8217;s Working will explore more of the revised demographic data in future columns.</p>
+
+<p><strong>➔ MORE: </strong><a target="_blank"  href="https://demography.dola.colorado.gov/assets/html/summit.html"><strong>See State Demography Summit page</strong></a></p>
+
+<p>What else is changing in Boulder County? Its minimum wage.</p>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/10/Pinnacol_300x250_IW_A.jpeg" width="300px" href="https://cosun.co/40hZ91i" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+<h2>Boulder County minimum wage going up 15%</h2>
+
+<p>Boulder County will join Denver and Edgewater in January as the third place in the state with its own minimum wage after unanimous approval by Boulder County commissioners earlier this week.</p>
+
+<p>The new minimum wage will increase 15% to $15.69 from the state&#8217;s current minimum of $13.65, but only in unincorporated Boulder County. An effort to get the whole county on the same wage proved too challenging.</p>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/10/FB_23_COGD_300x250_SomethingBigger_m1.jpeg" width="300px" href="https://cosun.co/3sbsJck" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+<p>&#8220;We&#8217;re hearing, &#8216;Oh, the market is increasing wages, we don&#8217;t need to take this action. The market is doing it for us,&#8217;&#8221; Commissioner Claire Levy said during the public hearing Thursday. &#8220;Well, (wages last year) <a target="_blank"  href="https://www.efaa.org/about/why-it-matters/">went up 5.5% for the lowest paid earners</a>. Inflation increased 8.5% and … the top 10% of the highest paid jobs, the hourly rate increased 16.4%. So we need to do what we have the power to do as commissioners to try to close the gaps, to try to level the playing field, to try to create an environment in which everyone can live a dignified life. And we can&#8217;t wait.&#8221;</p>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/11042023-US-vs-CO-vs.-local-minimum-wage-up-to-2024.png?w=800" href="https://public.flourish.studio/visualisation/15598706/" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Click the chart to see how much minimum wage has changed in Colorado.</em></span></p>
+
+<p>A <a target="_blank"  href="https://leg.colorado.gov/bills/hb19-1210">2019 state law</a> allowed municipalities to adopt their own minimum wage but prevents the wage from rising more than 15% a year. Denver was the first city to do so three years ago. It&#8217;s now at $17.29 an hour and because it&#8217;s pegged to annual inflation, it will increase to $18.29 in January.</p>
+
+<p>Edgewater became the second earlier this year. That also takes effect in January and will start at $15.02 an hour. The city&#8217;s anticipated annual increases will get its minimum wage to the same level as Denver by 2029.</p>
+
+<p>At the public hearing Thursday, Boulder County staff said that in surveys, most people wanted to get the county&#8217;s minimum to $25 by 2028, a wage proposed by the Self-Sufficiency Wage Coalition. An amendment to the ordinance, also passed Thursday, will get the county to $25 an hour by 2030.</p>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/11042023-Colorados-projected-minimum-wages.png?w=800" href="https://public.flourish.studio/visualisation/15605686/" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Here are the projected minimum wages through 2029 and 2030.</em></span></p>
+
+<p>That 2030 goal was strategic. If Boulder County towns and cities adopt a new minimum next year, they could catch up to the county and all would end up at $16.57 in 2025.</p>
+
+<p>Representatives from the Colorado Restaurant Association and the Boulder Chamber asked the county to wait.</p>
+
+<p>&#8220;We&#8217;ve been working in good faith along with our colleagues in the business community on a regional minimum wage and have been engaged in the process,&#8221; said Cole Larson, the government affairs director for the restaurant association. &#8220;And to see this wage ordinance move forward, separate from the rest of the county on a truncated timeline, is causing, first of all, a lot of consternation and issues for some of our businesses that have already planned out and budgeted for their 2024 year.&#8221;</p>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2020/10/20201009-Colwell-CoSun-Mobile-Home-HOA-2AC4875.jpg?w=800" href="https://coloradosun.com/2023/11/04/boulder-county-new-minimum-wage-2024/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>The Flatirons are pictured from along the south row of homes at the Table Mesa Village mobile home park in Boulder County. (Andy Colwell, Special to The Colorado Sun)</em></span></p>
+
+<p>Commissioner Marta Loachamin disagreed. &#8220;This would have, in my opinion, been rushed if in March of 2020, when Colorado shut down on March 5, if county commissioners … would have immediately put in a minimum wage in response to essential workers and the needs and the dire straits that folks were in,&#8221; she said. &#8220;I feel really good about the process (and) my ability to participate in this conversation as an elected official since 2021.&#8221;</p>
+
+<p>Loachamin also mentioned her support of a program that is being designed to help business owners transition to the new higher wage structure.</p>
+
+<p>According to a policy brief from the Emergency Family Assistance Association shared by the county, more than 10%, or over 20,000 jobs in Boulder County, paid less than $15 per hour last year.</p>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/09/Dream-Dentistry-Banner.jpeg" width="300px" href="https://cosun.co/3PrmGb4" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+<p>Levy pointed out that even at $15.69, that&#8217;s just $32,635 a year. That&#8217;s not enough to pay for a place to live and afford child care.</p>
+
+<p>&#8220;This is a step and I'm pleased that we are going forward,&#8221; she said. &#8220;I hope that our municipal partners can join us.&#8221;</p>
+
+&nbsp;<hr />&nbsp;
+
+&nbsp;<div style="border: 4px double #fcd232;padding:1em;"><p><span style="background-color:#fcd232;"><strong>Not a Sun member?</strong></span> <a target="_blank"  href="https://coloradosun.com/join/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">Join today</a> and support our home-grown local news.</p></div>&nbsp;
+
+&nbsp;<hr />&nbsp;
+
+<h2>Tuesday is Election Day: Some helpful resources</h2>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/03/voting-nov-2022-os-10-small.jpg?w=800" href="https://coloradosun.com/category/news/politics/election-2023/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Voters enter Augustana Lutheran Church to cast their ballots Nov. 8, 2022, in Denver. (Olivia Sun, The Colorado Sun via Report for America)</em></span></p>
+
+<p>The Colorado Sun&#8217;s politics team goes deep on many issues — and local policymakers — that probably impact your life. Tuesday is Election Day so as a courtesy to What&#8217;s Working&#8217;s thousands of readers, we wanted to share our 2023 election coverage, which is freely accessible to everyone. That&#8217;s how we roll here at The Sun. If you haven&#8217;t checked them out yet, here are some key resources:</p>
+
+<ul><li><a target="_blank"  href="https://coloradosun.us18.list-manage.com/track/click?u=fcc98a341cd4bf4bb00f0fe3d&amp;id=1e2978e507&amp;e=8340060fea">What you need to know about voting and returning your ballot</a> (it&#8217;s too late to mail it back in! Use a dropbox instead.)</li>
+
+<li><a target="_blank"  href="https://coloradosun.us18.list-manage.com/track/click?u=fcc98a341cd4bf4bb00f0fe3d&amp;id=aac986a920&amp;e=8340060fea">Proposition HH: What you need to know about the Colorado property tax relief plan</a></li>
+
+<li><a target="_blank"  href="https://coloradosun.us18.list-manage.com/track/click?u=fcc98a341cd4bf4bb00f0fe3d&amp;id=84249d217d&amp;e=8340060fea">Proposition II: Colorado would be able to keep all the tobacco, nicotine tax revenue it generates to pay for preschool</a></li>
+
+<li>A video of The Sun&#8217;s politics team <a target="_blank"  href="https://coloradosun.us18.list-manage.com/track/click?u=fcc98a341cd4bf4bb00f0fe3d&amp;id=3e5cd2d529&amp;e=8340060fea">answering your questions about Proposition HH</a>, and <a target="_blank"  href="https://coloradosun.us18.list-manage.com/track/click?u=fcc98a341cd4bf4bb00f0fe3d&amp;id=8c432833ef&amp;e=8340060fea">plenty more coverage of the ballot measure</a></li>
+
+<li><a target="_blank"  href="https://coloradosun.us18.list-manage.com/track/click?u=fcc98a341cd4bf4bb00f0fe3d&amp;id=c44eca05a0&amp;e=8340060fea">Coverage of school board contests</a> across Colorado and a <a target="_blank"  href="https://coloradosun.us18.list-manage.com/track/click?u=fcc98a341cd4bf4bb00f0fe3d&amp;id=7138e85fe5&amp;e=8340060fea">virtual event</a> where The Sun answered questions about the races</li>
+</ul>
+
+<p>The Colorado Sun will be bringing you the results on Election Day, Nov. 7, and we are already planning our coverage for 2024, when all eyes will be on three competitive Colorado congressional races.</p>
+
+<p><em>If you appreciate the reporting our team of journalists provides, we need your help to make our coverage possible. </em><a target="_blank"  href="https://coloradosun.com/join/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email"><em>Become a member today</em></a><em> and help us keep Colorado informed about the most important issues.</em></p>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/10/23Bellco_1123_Boost_4.50_COSun-Newsletters_300x250_Animated_F.gif" width="300px" href="https://cosun.co/49ateEa" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+<h2>More Sun economy stories</h2>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/03/AP23083620433120-1-scaled.jpg?w=800" href="https://coloradosun.com/2023/11/03/cbca-economic-study-denver-arts-culture/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Pedestrians cross 14th Street near the Frederic C. Hamilton Building of the Denver Art Museum Friday, March 24, 2023, in downtown Denver. (AP Photo/David Zalubowski)</em></span></p>
+
+<p><strong>➔ Denver arts economy is back. Or is it?</strong> Nonprofit arts and cultural activity last year had a $2.6 billion economic impact in the state, up 13.5% from 2019, according to an update from the Colorado Business Committee for the Arts. While those who survived the pandemic credit public aid, we&#8217;re now in a period where no more assistance is available and in-person attendance at events hasn&#8217;t returned to pre-pandemic levels, and 55% of organizations run by or tailored to people of color said they lacked financial resources to get back where they used to be. Sun culture reporter <strong>Parker Yamasaki</strong> reports on the economic update. <strong>&gt;&gt; </strong><a target="_blank"  href="https://coloradosun.com/2023/11/03/cbca-economic-study-denver-arts-culture/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email"><strong>Read story</strong></a></p>
+
+<p><strong>➔ Western Slope water interests offer to buy Colorado River water rights from Xcel. </strong>Negotiations are underway for the Glenwood Springs-based Colorado River District to purchase one of the oldest, largest water rights on the Colorado River within state lines from Xcel, in exchange for more opportunities to protect streamflows for fish, habitat and wildlife, reports our friend from Fresh Water News <strong>Jerd Smith</strong>. <strong>&gt;&gt; </strong><a target="_blank"  href="https://coloradosun.com/2023/11/02/xcel-energy-water-rights-colorado-river-shoshone/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email"><strong>Read story</strong></a></p>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/PXL_20231101_190354192-scaled.jpg?w=800" href="https://coloradosun.com/2023/11/01/kroger-albertsons-merger-king-soopers-ftc-chair/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Two members of the United Food and Commercial Workers Local 7, which represents several Front Range King Soopers workers, brought signs showing their opposition to the merger of King Soopers' parent Kroger Co. and Albertsons. A listening session by state and federal officials was held Nov. 1, 2023 at the Mi Casa Resource Center in Denver. (Tamara Chuang, The Colorado Sun)</em></span></p>
+
+<p><strong>➔ Grocery store merger attracts FTC chair in Denver.</strong> It&#8217;s been more than a year since Kroger and Albertsons proposed a merger. Colorado Attorney General Phil Weiser has conducted 19 stops on a listening tour around the state and has heard an earful of folks opposed to the tie-up, he said. On his most recent stop in Denver, Federal Trade Commission Chair Lina Khan only heard opposition. The Sun was there.<strong> &gt;&gt; </strong><a target="_blank"  href="https://coloradosun.com/2023/11/01/kroger-albertsons-merger-king-soopers-ftc-chair/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email"><strong>Read story</strong></a></p>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/10/2023-Open-Enrollment-Event-300-x-250-px.png" width="300px" href="https://cosun.co/402NhA6" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+<h2>Other working bits</h2>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/Skyhook-Solar_1.jpg?w=800" href="https://coloradosun.com/2023/11/04/boulder-county-new-minimum-wage-2024/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif;color:#727273;padding:0 12px;margin:0;"><em>Skyhook Solar builds solar-powered generators that can be transported to more remote areas to help charge EVs, lights and emergency services. The Carbondale company announced on Nov. 1 that it's opening a manufacturing plant in Grand Junction. (Handout)</em></span></p>
+
+<p><strong>➔ Skyhook Solar moving to Grand Junction.</strong> A Carbondale developer of portable solar generators that could charge electric vehicles in remote areas has moved its manufacturing to Grand Junction. Skyhook Solar, which has spent the past two years working on the technology, employs seven people but hopes to add 38 jobs in the next four years. It was also picked to be part of the state&#8217;s Rural Jump Start Program, which offers cash grants of up to $20,000 to offset startup costs plus $2,500 per new hire. Skyhook is also working with Colorado Mesa University to create a workforce program. A spokesman for the company said that it&#8217;s working on a seed-funding round, which is expected to close later this month. <strong>&gt;&gt; </strong><a target="_blank"  href="https://www.skyhooksolar.com/post/skyhook-celebrates-acceptance-into-rural-jump-start-program-and-establishes-hq-in-grand-junction"><strong>More</strong></a></p>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/10/CoSun-Ad-2023.png" width="300px" href="https://cosun.co/40qnZwg" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+<p><strong>➔ How the local quantum workforce plans to expand.</strong> After last month&#8217;s big news that Colorado was <a target="_blank"  href="https://coloradosun.com/2023/10/20/colorado-tech-hub-quantum-computers/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">picked as an official Tech Hub</a> for quantum technology (here&#8217;s a <a target="_blank"  href="https://coloradosun.com/2023/10/27/boulder-tech-hub-quantum-qubits/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">refresher on the tech</a>), the Front Range Community College shared a bit more on how it&#8217;s preparing students for careers in quantum. The new status helps &#8220;enable us to build out our curriculum and lab spaces to teach more of these critical quantum-related skills,&#8221; FRCC Optics Program Director Amanda Meier said in a news release.</p>
+
+</mj-text><mj-divider /><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2020/10/daily-sun-up.png" width="300px" href="https://coloradosun.com/podcast" padding="0px 0px 8px" /><mj-divider /><mj-text>
+
+&nbsp;<hr />&nbsp;
+
+<p>Thanks for sticking with me for this week&#8217;s report. Remember to check out <a target="_blank"  href="https://coloradosun.com/">The Sun&#8217;s daily coverage online</a>. As always, share your 2 cents on how the economy is keeping you down or helping you up at <a target="_blank"  href="https://cosun.co/heyww">cosun.co/heyww</a>. ~<em> </em><a target="_blank"  href="mailto:tamara@coloradosun.com?subject=What's Working Feedback"><em>tamara</em></a></p>
+
+&nbsp;<hr />&nbsp;
+
+<h3><strong>Miss a column? Catch up:</strong></h3>
+
+<ul><li><a target="_blank"  href="https://coloradosun.com/2023/10/28/jobs-openings-colorado-hiring-wages/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">The number of open jobs in Colorado is a sign the labor market may be stabilizing</a></li>
+
+<li><a target="_blank"  href="https://coloradosun.com/2023/10/21/colorado-unemployment-rate-cable-jobs/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">Colorado&#8217;s unemployment rate has risen to 3.2%. Here&#8217;s why that&#8217;s &#8220;not significant&#8221;</a></li>
+
+<li><a target="_blank"  href="https://coloradosun.com/2023/10/14/colorado-clean-energy-quantum-tech-hub-jobs/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">Didn&#8217;t know Colorado is a leader in clean energy and quantum? A Tech Hub designation could change that.</a></li>
+
+<li><a target="_blank"  href="https://coloradosun.com/2023/10/07/colorado-population-future-migration/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">What Colorado&#8217;s population will look like in the future</a></li>
+
+<li><a target="_blank"  href="https://coloradosun.com/2023/09/30/colorado-business-leaders-economy-inflation/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">Colorado business leaders are down on the economy, but not because of inflation</a></li>
+
+<li><a target="_blank"  href="https://coloradosun.com/2023/09/23/colorados-jobs-population-growth/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">Who will fill Colorado&#8217;s jobs in the future?</a></li>
+
+<li><a target="_blank"  href="https://coloradosun.com/2023/09/16/aging-work-force-unemployment-rate-demographics/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">Why Colorado&#8217;s growing work force seems like it&#8217;s shrinking</a></li>
+
+<li><a target="_blank"  href="https://coloradosun.com/2023/09/09/colorado-springs-economy-housing-jobs/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email">The future of Colorado Springs&#8217; economy and what it takes to live there</a></li>
+</ul>
+
+&nbsp;<hr />&nbsp;
+
+<p><a target="_blank"  href="https://coloradosun.com/tag/whats-working/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email"><em>What&#8217;s Working</em></a><em> is a Colorado Sun column about surviving in today&#8217;s economy. Email </em><a target="_blank"  href="mailto:tamara@coloradosun.com?subject=WW feedback"><em>tamara@coloradosun.com</em></a><em> with stories, tips or questions. Read the </em><a target="_blank"  href="https://coloradosun.com/whatsworking?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email"><em>archive</em></a><em>, ask a question at </em><a target="_blank"  href="https://cosun.co/heyww"><em>cosun.co/heyww</em></a><em> and don&#8217;t miss the next one by signing up at </em><a target="_blank"  href="https://coloradosun.com/getww"><em>coloradosun.com/getww</em></a><em>.</em></p>
+
+<p><strong><em>Support this free newsletter and become a Colorado Sun member: </em></strong><a target="_blank"  href="https://coloradosun.com/join?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=SUNRISER_*|DATE:Ymd|*&utm_medium=email"><strong><em>coloradosun.com/join</em></strong></a></p>
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

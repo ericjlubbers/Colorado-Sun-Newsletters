@@ -1,0 +1,151 @@
+<mj-include path="./sunriser-header.mjml" />
+ 
+<mj-section>
+<mj-column>
+<mj-text>
+<p style="color:#949494;font-family:'Libre Franklin',Arial Black,Helvetica,sans-serif;"><strong><em>*|DATE:l, F j, Y|*</em></strong></p>
+
+<h1>Ski resorts&#8217; secret formula could be revealed</h1>
+
+<p><em>Plus: A homemade chicken dinner now costs 40% more, a whole shop of opera workers unionize and judges to hear appeal to ruling that allows Trump on the ballot</em></p>
+
+&nbsp;<hr />&nbsp;
+
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">G</span>ood morning, Colorado.</p>
+
+<p>We did our pre-Thanksgiving shopping yesterday. Picked up the turkey from a butcher, went to a wine shop and then hit two grocery stores to get everything we needed.</p>
+
+<p>So now the turkey is in its brine. The cranberries are on the counter awaiting an orange juice bath. And sourdough bread is sitting out so we can get our stuffing texture just the way we like it.</p>
+
+<p>Now, we all have one more work day until the big feast. Can&#8217;t make it through? Don&#8217;t worry, we have some articles to help you count down the hours on the clock.</p>
+
+<!-- BYLINE -->
+</mj-text><mj-table><tr class="byline-0-single"><td class="name"><strong>Danika Worthington</strong><br /><a target="_blank"  target="_blank"  href="https://coloradosun.com/author/danika-worthington/" target="_blank"><span class="jobtitle">Presentation Editor</span></a></td><td class="mugshot"><img class="mugshot" width="48px" height="48px" align="center" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/11/danikaworthington.jpeg?resize=96,96"/></td></tr></mj-table><mj-text>
+
+*|IF:MEMBERSHIP = 0|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://coloradosun.com/join">Join The Sun!</mj-button><mj-text>*|END:IF|**|END:IF|**|IF:ARCHIVE_PAGE|*</mj-text><mj-button href="https://coloradosun.com/join">Join The Sun!</mj-button><mj-text>*|END:IF|*
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/10/FB_23_COGD_300x250_StartAWave_m1.jpeg" width="300px" href="https://cosun.co/3sbsJck" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><mj-text margin="0" padding="0"><h3>THE NEWS</h3></mj-text><mj-text>
+
+<h4>HIGH COST OF COLORADO</h4>
+
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2023/11/22/homemade-chicken-dinner-cost-dinner/" style="text-decoration:none;color:#003D5A;">The cost of a homemade chicken dinner has climbed 40% in five years in Colorado</h2>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/highcost-chicken-dinner-os-13-scaled.jpg?w=800" href="https://coloradosun.com/2023/11/22/homemade-chicken-dinner-cost-dinner/" target="_blank"/><mj-text><p class="caption">(Olivia Sun, The Colorado Sun via Report for America)</span></p>
+
+<p>Thanksgiving is tomorrow, but today we&#8217;re talking about chicken. The cost of a classic chicken dinner — including a salad, mashed potatoes and veggies on the side — has gone up 40% in the past five years. <strong>Jennifer Brown</strong> breaks it down cost by cost to show you why.</p>
+
+<p><a target="_blank"  href="https://coloradosun.com/2023/11/22/homemade-chicken-dinner-cost-dinner/"><strong>READ MORE</strong></a></p>
+
+<ul><li><a target="_blank"  href="https://coloradosun.com/high-cost-colorado/"><strong>Read more from our High Cost of Colorado series.</strong></a></li>
+</ul>
+
+&nbsp;<hr />&nbsp;
+
+<h4>OUTDOORS</h4>
+
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2023/11/22/park-city-resort-capacity-court-ruling/" style="text-decoration:none;color:#003D5A;">Park City court decision could open ski resorts&#8217; secret formula for accommodating crowds</h2>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/12/EpicSki_HC_02.jpg?w=800" href="https://coloradosun.com/2023/11/22/park-city-resort-capacity-court-ruling/" target="_blank"/><mj-text><p class="caption">Skiers and snowboarders prepare to drop down the slopes of Breckenridge ski area Dec. 26. (Hugh Carey, The Colorado Sun)</span></p>
+
+<p>Crowds at some of Colorado&#8217;s biggest ski resorts have felt overwhelming in recent years. But are they too crowded? With ski areas staying mum, it&#8217;s hard to say. But a district court ruling last week could change that, <strong>Jason Blevins</strong> reports.</p>
+
+<p><a target="_blank"  href="https://coloradosun.com/2023/11/22/park-city-resort-capacity-court-ruling/"><strong>READ MORE</strong></a></p>
+
+&nbsp;<hr />&nbsp;
+
+<h4>CULTURE</h4>
+
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2023/11/22/opera-colorado-union-vote/" style="text-decoration:none;color:#003D5A;">Artistic workers at Opera Colorado win their union. Next comes collective bargaining.</h2>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/11/OPERA-DRESS-REHEARSAL-11012022360-scaled.jpg?w=800" href="https://coloradosun.com/2023/11/22/opera-colorado-union-vote/" target="_blank"/><mj-text><p class="caption">Members of the Opera Colorado Chorus on stage in Act I, Scene I full dress rehearsal of Rigoletto at the Ellie Caulkins Opera House in 2022. (Kathryn Scott, Special to The Colorado Sun)</span></p>
+
+<blockquote>&#8220;We made it very clear, with an almost 92% vote, we want change and we want to make art in a creative and supportive environment where we have the tools that we need.&#8221;<br><br><span class="pullquote-source"> Joshua Zabatta, who has sung with Opera Colorado&#8217;s chorus, as well as some solo roles, since 2016</span></blockquote>
+
+<p>Artistic workers at Opera Colorado are now unionized. It&#8217;s also the first time in decades that a bargaining unit at a U.S. opera company includes all onstage and backstage employees. <strong>Stephanie Wolf</strong> has more on what comes next.</p>
+
+<p><a target="_blank"  href="https://coloradosun.com/2023/11/22/opera-colorado-union-vote/"><strong>READ MORE</strong></a></p>
+
+&nbsp;<hr />&nbsp;
+
+<h4>MORE NEWS</h4>
+
+<ul><li><a target="_blank"  href="https://coloradosun.com/2023/11/21/adams-county-four-dead/"><strong>4 men found dead at home north of Denver.</strong></a> The Adams County Sheriff&#8217;s Office said it was called at about 4:30 p.m. to a home in the 8400 block of Franklin Drive for a gunshot victim.</li>
+
+<li><a target="_blank"  href="https://coloradosun.com/2023/11/21/colorado-supreme-court-hear-appeal-trump-ballot/"><strong>Colorado Supreme Court will hear appeal of ruling that Trump can stay on ballot despite insurrection.</strong></a> The case will be heard by the seven justices on the state court, all of whom were appointed by Democrats.</li>
+</ul>
+
+*|IF:MEMBERSHIP = 0|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://coloradosun.com/join">Become A Member!</mj-button><mj-text>*|END:IF|**|END:IF|**|IF:ARCHIVE_PAGE|*</mj-text><mj-button href="https://coloradosun.com/join">Become A Member!</mj-button><mj-text>*|END:IF|*
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/09/YWT50thFoCo-300x250-2023.jpeg" width="300px" href="https://cosun.co/455a7s1" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><mj-text margin="0" padding="0"><h3>THE COLORADO REPORT</h3></mj-text><mj-text>
+
+<p style="text-align:center;">🔑 = <em>source has article meter or paywall</em></p>
+
+<ul><li><a target="_blank"  href="https://www.denverpost.com/2023/11/22/denver-weather-snow-thanksgiving/"><strong>Denver metro could see 3 to 7 inches of Thanksgiving snow and frigid weekend temps.</strong></a> The unseasonably warm weather Colorado has seen this week should start plummeting starting Wednesday.<br><strong>— The Denver Post</strong></li>
+
+<li><a target="_blank"  href="https://www.postindependent.com/news/number-of-unhoused-latinos-in-carbondale-reaches-100-children-join-group/"><strong>Number of unhoused immigrants in Carbondale reaches 100, including children.</strong></a> This comes after dozens of people who were previously living under the Carbondale bridge were<a target="_blank"  href="https://coloradosun.com/2023/11/14/venezuelan-migrants-carbondale/"> placed in a temporary shelter</a> at the Third Street Center in Carbondale.<br><strong>— Glenwood Springs Post Independent</strong></li>
+
+<li><a target="_blank"  href="https://www.westword.com/arts/indigenous-voices-take-center-stage-in-new-denver-musical-18271352"><strong>Indigenous voices take center stage in new musical inspired by Oak Flat controversy.</strong></a> "This story was exciting because it spoke to ideological riffs at the heart of the divisions in our country."<br><strong>— Westword</strong></li>
+
+<li><a target="_blank"  href="https://www.9news.com/article/life/holidays/thankful/king-soopers-open-closed-thanksgiving/73-5b107aec-a571-4b8c-a87c-664b60ee6408"><strong>Here's what will be open and closed on Thanksgiving 2023.</strong></a> For those seeking last-minute Thanksgiving necessities the day of, here's where to look.<br><strong>— 9News</strong></li>
+</ul>
+
+</mj-text><mj-table align="center"><tr class="byline-1"><td class="name"><strong>Kevin Jeffers</strong> | <span class="jobtitle">Product Team</span></td><td class="mugshot"><img class="mugshot" width="36px" height="36px" align="center" href="https://coloradosun.com/author/kevin-jeffers/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/09/headshot-copy-1.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/06/OJ_CO-Sun_300x250_bridge.jpg" width="300px" href="https://cosun.co/3PCc9fc" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><mj-text margin="0" padding="0"><h3>THE OPINION PAGE</h3></mj-text><mj-text>
+
+<h4>COLUMNS</h4>
+
+<ul><li><a target="_blank"  href="https://coloradosun.com/2023/11/22/trump-judge-wallace-ballot-opinion-littwin/"><strong>Judge Wallace didn&#8217;t kick Trump off the ballot, but she did find that he incited an insurrection.</strong></a> And that&#8217;s why both sides — pro-Trump and anti-Trump — are appealing her ruling as the case heads to the Colorado Supreme Court.<br><strong>— Mike Littwin</strong></li>
+
+<li><a target="_blank"  href="https://coloradosun.com/2023/11/22/convenience-stores-gasoline-seeds-opinion-silverman/"><strong>I&#8217;m just nuts about the gasoline price wars in Arapahoe County.</strong></a> Convenience stores are battling for business, and you won&#8217;t have to wait until Black Friday to find some deals.<br><strong>— Craig Silverman</strong></li>
+</ul>
+
+<h4>COMMUNITY</h4>
+
+<ul><li><a target="_blank"  href="https://coloradosun.com/2023/11/22/colorado-opinion-king-soopers-albertsons-merger/"><strong>FTC and Colorado AG should take bold step to stop the Kroger-Albertsons merger.</strong></a> The merger between our biggest grocery chains threatens to grow corporate power to the detriment of workers and consumers.<br><strong>— David Seligman</strong>, executive director of Denver-based <a target="_blank"  href="https://towardsjustice.org/">Towards Justice</a></li>
+</ul>
+
+<p><em>The Colorado Sun is a nonpartisan news organization, and the opinions of columnists and editorial writers do not reflect the opinions of the newsroom.</em><a target="_blank"  href="https://coloradosun.com/ethics"><em> Read our ethics policy for more on The Sun&#8217;s opinion policy</em></a><em> and submit columns, suggest writers or provide feedback at opinion@coloradosun.com.</em></p>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/02/CO-Sun_600x500-1.jpg" width="300px" href="https://cosun.co/3RjOz5v" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+</mj-text><mj-text margin="0" padding="0"><h3>SunLit</h3></mj-text>
+<mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/01/The-Bookies-picks.png?w=800" href="https://coloradosun.com/2023/11/19/sunlit-the-bookies-bookstore-recommendations-november/" target="_blank"/><mj-text>
+
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/?p=358302" style="text-decoration:none;color:#003D5A;">The Bookies Bookstore has some November suggestions to be thankful for</h2>
+
+<p>Each week as part of SunLit — The Sun&#8217;s literature section — we feature staff recommendations from bookstores across Colorado. This week, the staff from The Bookies Bookstore in Denver recommends:</p>
+
+<ul><li><strong>&#8220;The Last Animal&#8221;</strong> <em>by Ramona Ausubel, a tale of reviving an extinct species</em></li>
+
+<li><strong>&#8220;All the Devils Are Here&#8221;</strong> <em>by Louise Penny, a Parisian mystery</em></li>
+
+<li><strong>&#8220;Never Whistle at Night&#8221;</strong> <em>edited by Shane Hawk and Theodore C. Van Alst Jr., a collection of Indigenous short stories</em></li>
+</ul>
+
+<p>Read what the bookstore staff had to say about each. Pick up a copy and support your local bookstores at the same time.</p>
+
+<p><a target="_blank"  href="https://coloradosun.com/?p=358302"><strong>RECOMMENDATIONS</strong></a></p>
+
+</mj-text><mj-table align="center"><tr class="byline-1"><td class="name"><strong>Kevin Simpson</strong> | <span class="jobtitle">Writer</span></td><td class="mugshot"><img class="mugshot" width="36px" height="36px" align="center" href="https://coloradosun.com/author/kevin-simpson/" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2018/08/IMG_0426.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/11/Daniella-Katzir-for-Colorado-Sun.png" width="300px" href="https://cosun.co/47fwSeK" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+&nbsp;<hr />&nbsp;
+
+<p>Remember: If there&#8217;s any Thanksgiving cooking that can be done today, do it.</p>
+
+<p>— <em>Danika &amp; the whole staff of The Sun</em></p>
+
+</mj-text><mj-text align="center" font-size="9px" padding="0px" color="#9a9a9a"> UNDERWRITTEN BY </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/09/Dream-Dentistry-Banner.jpeg" width="300px" href="https://cosun.co/3PrmGb4" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+*|IF:MEMBERSHIP = 0|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://coloradosun.com/join">Join The Sun!</mj-button><mj-text>*|END:IF|**|END:IF|**|IF:ARCHIVE_PAGE|*</mj-text><mj-button href="https://coloradosun.com/join">Join The Sun!</mj-button><mj-text>*|END:IF|*
+
+<!-- FOOTER -->
+</mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>
