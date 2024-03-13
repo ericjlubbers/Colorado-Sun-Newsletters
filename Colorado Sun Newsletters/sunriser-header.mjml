@@ -11,7 +11,8 @@
 <!--  END HEADER -->
 <!--  BODY -->
   <!--  IMPORT LOGO -->
-  <mj-body>    <mj-section>
+  <mj-body>
+    <mj-section>
       <mj-column padding="0px" background-color="#ffffff" border="1px #fcd232 solid">
         <mj-text mj-class="footer">
           <p style="padding:12px 0;margin:0;font-size:12px">If you are experiencing trouble accessing links in this newsletter, please click the link below to open the browser version of this email instead. Please let us know if you have recently started receiving error messages when you click our links: <a href="mailto:support@coloradosun.com?subject=Trouble%20opening%20links">support@coloradosun.com</a>.</p>

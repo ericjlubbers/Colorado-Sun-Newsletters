@@ -10,13 +10,15 @@
 <!--  BODY -->
   <!--  IMPORT LOGO -->
   <mj-body width="600px">
-<mj-section>
-      <mj-column padding="0px" background-color="#F5F5F5">
+    <mj-section>
+      <mj-column padding="0px" background-color="#ffffff" border="1px #fcd232 solid">
         <mj-text mj-class="footer">
-          <a style="color:#6E6E6E;font-size:10px;font-weight:400;" href="*|ARCHIVE|*">OPEN THIS IN YOUR BROWSER</a>
+          <p style="padding:12px 0;margin:0;font-size:12px">If you are experiencing trouble accessing links in this newsletter, please click the link below to open the browser version of this email instead. Please let us know if you have recently started receiving error messages when you click our links: <a href="mailto:support@coloradosun.com?subject=Trouble%20opening%20links">support@coloradosun.com</a>.</p>
+          <p style="padding:0;margin:0;"><a style="color:#6E6E6E;font-size:12px;font-weight:400;" href="*|ARCHIVE|*">OPEN THIS IN YOUR BROWSER</a></p>
         </mj-text>
       </mj-column>
     </mj-section>
+    <mj-section>
  
     <mj-section>
       <mj-column background-color="#ffffff">

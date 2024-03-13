@@ -12,12 +12,18 @@
 <!--  BODY -->
   <!--  IMPORT LOGO -->
   <mj-body>
+        <mj-section>
+      <mj-column padding="0px" background-color="#ffffff" border="1px #fcd232 solid">
+        <mj-text mj-class="footer">
+          <p style="padding:12px 0;margin:0;font-size:12px">If you are experiencing trouble accessing links in this newsletter, please click the link below to open the browser version of this email instead. Please let us know if you have recently started receiving error messages when you click our links: <a href="mailto:support@coloradosun.com?subject=Trouble%20opening%20links">support@coloradosun.com</a>.</p>
+          <p style="padding:0;margin:0;"><a style="color:#6E6E6E;font-size:12px;font-weight:400;" href="*|ARCHIVE|*">OPEN THIS IN YOUR BROWSER</a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
     <mj-section>
       <mj-column background-color="#ffffff">
-         <mj-text align="center" padding="0" margin="0">
-          <a style="color:#6E6E6E;font-size:8px;font-weight:400;" href="*|ARCHIVE|*">READ THIS IN YOUR BROWSER</a>
-        </mj-text>
         <mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/09/temp-logo-white-bg@2x.png?w=900" width="500px"></mj-image>
-        <mj-text font-size="12px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><a href="https://coloradosun.com/account">YOUR SUN ACCOUNT</a> | <a href="http://coloradosun.com/faq">HELP & FAQ</a> | <a href="mailto:tips@coloradosun.com">SEND US A TIP</a></mj-text>
+        <mj-text font-size="12px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><a href="https://coloradosun.com/account">YOUR SUN ACCOUNT</a> | <a href="http://coloradosun.com/faq">HELP & FAQ</a> | <a href="https://www.coloradosun.com/donate?utm_source=marketing-acq&utm_medium=email&utm_campaign=donatesunriser">🖤DONATE</a></mj-text>
       </mj-column>
     </mj-section>
