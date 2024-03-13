@@ -22,10 +22,15 @@
       <mj-class name="biglogo" width="200px" />
       <mj-class name="tinylogo" width="150px" />
     </mj-attributes>
-    <mj-style inline="inline"> .shadow { text-shadow: 0px 0px 30px rgba(150, 150, 150, 1); } .bluehead {background-color:#134258;padding:.5em;color:#ffffff;} .highlight {background-color:#fcd232;color:#212121;} @media (prefers-color-scheme: dark) { .highlight {background-color:#fcd232;color:#212121;} } li {padding-bottom:6px;} h1 {font-family:'Libre Franklin',Arial,sans-serif;line-height:1.3em;font-size:1.6em;font-weight:700;} h2 {font-weight:bold;line-height:1.3;padding-bottom:0;} hr {width:50%;border-bottom:solid 2px #fcd232;border-top:none;} a {color:#003D5A;} h3.a {text-decoration:none;} h3 {padding: 0 6px 0 6px}
+    <mj-style inline="inline"> .shadow { text-shadow: 0px 0px 30px rgba(150, 150, 150, 1); } .bluehead {background-color:#134258;padding:.5em 0;color:#ffffff;} .highlight {background-color:#fcd232;color:#212121;} @media (prefers-color-scheme: dark) { .highlight {background-color:#fcd232;color:#212121;} } li {padding-bottom:6px;} h1 {font-family:'Libre Franklin',Arial,sans-serif;line-height:1.3em;font-size:1.6em;font-weight:700;} h2 {font-weight:bold;line-height:1.3;padding-bottom:0;} hr {width:50%;border-bottom:solid 2px #fcd232;border-top:none;} a {color:#003D5A;} h3.a {text-decoration:none;} h3 {padding: 0}
      </mj-style>
   </mj-head>
   <mj-body>
     <!-- MASTHEAD + AD -->
     <mj-section>
-      <mj-column padding="0px" background-color="#F5F5F5"><mj-raw>*|IF:MEMBERSHIP = 0|*</mj-raw><mj-button href="https://coloradosun.com/join">The Sun needs your support. Click here!</mj-button><mj-raw>*|END:IF|*</mj-raw><mj-text mj-class="footer"><a style="color:#6E6E6E;font-size:10px;font-weight:400;" href="*|ARCHIVE|*">OPEN THIS IN YOUR BROWSER</a></mj-text></mj-column></mj-section>
+      <mj-column padding="0px" background-color="#ffffff" border="1px #fcd232 solid">
+        <mj-text mj-class="footer">
+          <p style="padding:12px 0;margin:0;font-size:12px">If you are experiencing trouble accessing links in this newsletter, please click the link below to open the browser version of this email instead. Please let us know if you have recently started receiving error messages when you click our links: <a href="mailto:support@coloradosun.com?subject=Trouble%20opening%20links">support@coloradosun.com</a>.</p>
+          <p style="padding:0;margin:0;"><a style="color:#6E6E6E;font-size:12px;font-weight:400;" href="*|ARCHIVE|*">OPEN THIS IN YOUR BROWSER</a></p>
+        </mj-text>
+      </mj-column></mj-section>
