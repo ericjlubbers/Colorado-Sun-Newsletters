@@ -1,3 +1,4 @@
+
 <mj-include path="./sunriser-header.mjml" />
  
 <mj-section>
@@ -5,140 +6,133 @@
 <mj-text>
 <h4>NEWS&nbsp;&nbsp;&nbsp;<span style="color:#949494;font-weight:400;">*|DATE:l, F j, Y|*</span></h4>
 
-<h1>State buys 5 miles of pristine trout stream</h1>
+<h1>Pharmaceutical company goes after Colorado&#8217;s price-setting board</h1>
 
-<p><em>Plus: ID checks to use the bathroom at Colorado school, ski resorts preparing for climate change, decoding job numbers and more</em></p>
+<p><em>Plus: Sand Creek and Amache descendants unite, lawmakers reject gun prosecutor request, Dems propose per-student spending increase and more</em></p>
 
 &nbsp;<hr />&nbsp;
 
 <p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">G</span>ood morning, Colorado.</p>
 
-<p>I&#8217;ve been hitting the snooze button more often than normal the past two days, but daylight saving time isn&#8217;t the only culprit. Over the weekend, I took a winter survival class near Kenosha Pass to learn how to best prepare if I were forced to stay overnight in the backcountry with only the gear in my day pack. At 10,115 feet, I learned to build different types of snow shelters (like a <a target="_blank"  href="https://scoutlife.org/outdoors/outdoorarticles/2992/how-to-build-a-quinzee-snow-shelter/">quinzee</a>), create a compass using the sun and pinecones, and how to start a fire in the snow, before hunkering down in my snow trench for the night.</p>
+<p>I tried Afghan food for the first time last night at a restaurant in Colorado Springs and it was delicious. I ordered a traditional Afghan eggplant dish, simmered in tomato sauce and homemade yogurt, and kabuli pulao, the country&#8217;s national dish made of rice seasoned with cardamom, caramelized carrots and raisins and marinated lamb.</p>
 
-<p>As I crawled out of my trench at the day&#8217;s first light, my eyes felt heavy and my body ached from all of the shoveling. But sometimes, it&#8217;s all worth it knowing you did something you weren&#8217;t sure you could do.</p>
+<p>I discovered the restaurant through a book club with returned Peace Corps volunteers — every other month we read a book about a country where we lived as volunteers, then discuss it over a meal from that country. It&#8217;s a fun and relatively easy way to learn about places that feel far, far away, but maybe aren&#8217;t so different from home.</p>
 
-<p>That being said, I&#8217;m grateful for my fuzzy slippers and hot coffee while I write this morning&#8217;s newsletter from the warmth of my home. Let&#8217;s get reading.</p>
+<p>Speaking of learning something new, this morning&#8217;s newsletter is packed with news that is sure to teach us a fact or two. (Sadly, no international meal is included, though it sure goes well with a warm cup of coffee.)</p>
 
 <!-- BYLINE -->
 </mj-text><mj-table><tr class="byline-0-single"><td class="name"><strong><a target="_blank"  target="_blank"  href="https://coloradosun.com/author/olivia-prentzel/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Olivia Prentzel</a></strong><br /><span class="jobtitle">Reporter</span></td><td class="mugshot"><img class="mugshot" href="https://coloradosun.com/author/olivia-prentzel/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/06/rsz_1olivia_blue_bkg_1.jpg?resize=96,96"/></td></tr></mj-table><mj-text>
 
-*|IF:STATUS != Member|**|IF:STATUS != Active Member|*</mj-text><mj-button href="https://coloradosun.com/join?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Join The Sun!</mj-button><mj-text>*|END:IF|**|END:IF|*
-
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/David-Wilcox-for-The-Colorado-Sun.png" width="300px" href="https://cosun.co/3wGb4eU" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/01/CTiindependence-300x250-2024.jpg" width="300px" href="https://cosun.co/3On5Dar" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
 
 </mj-text><mj-text margin="0" padding="0"><h3>THE NEWS</h3></mj-text><mj-text>
 
-<h4>ENVIRONMENT</h4>
-
-<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/03/12/colorado-land-conservation-south-park-ranch-tarryall/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Colorado Parks and Wildlife lands a spectacular hunting and fishing ranch in South Park</h2>
-
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/Collard_Ranch_Tarryall_Creek_CREDIT_Christi_Bode-scaled.jpg?w=800" href="https://coloradosun.com/2024/03/12/colorado-land-conservation-south-park-ranch-tarryall/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p class="caption">Colorado Parks and Wildlife will transform the nearly 1,900-acre Collard Ranch in South Park into a state wildlife area, with five miles of fishing and wildlife preservation on Tarryall Creek one of the prime features. (Christi Bode, via Western Rivers Conservancy)</span></p>
-
-<blockquote>&#8220;Land purchases, like everyone knows buying houses on the Front Range, is difficult to do, and we&#8217;re losing habitat in a lot of spaces. So an opportunity like this does not come up often. We&#8217;re really thrilled that it has gone our way.&#8221;<br><br><span class="pullquote-source">— Kara Van Hoose, spokesperson for Colorado Parks and Wildlife&#8217;s northeast region</span></blockquote>
-
-<p>Calling all hunters and anglers — there&#8217;s a new state wildlife area to add to your list. Nearly 1,900 acres of stunning South Park fishing and hunting habitat will be turned into a new state wildlife area later this year after Great Outdoors Colorado funded most of the $8.25 million purchase of Collard Ranch on Tarryall Creek. Public access could begin &#8220;in months,&#8221; but in the meantime, <strong>Michael Booth </strong>has more details on the 5 miles of pristine trout stream and ranch that is known as a corridor for thousands of elk moving to and from the nearby mountains.</p>
-
-<p><a target="_blank"  href="https://coloradosun.com/2024/03/12/colorado-land-conservation-south-park-ranch-tarryall/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
-
-&nbsp;<hr />&nbsp;
-
-<h4>WATER</h4>
-
-<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/03/12/colorado-ski-resorts-climate-change-eldora-mountain/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">How do Colorado ski resorts prepare for a changing climate? Ask Eldora Mountain Resort.</h2>
-
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/eldora-water-petersen-lake-1-scaled.jpg?w=800" href="https://coloradosun.com/2024/03/12/colorado-ski-resorts-climate-change-eldora-mountain/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p class="caption">Peterson Lake on March 5, near Eldora Mountain Resort. The resort draws water from the lake for snowmaking on the slopes. (Olivia Sun, The Colorado Sun via Report for America)</span></p>
-
-<p>Ski resorts may only take up a tiny slice of Colorado&#8217;s overall water use, but they&#8217;ll likely need to boost their supply by about 41% by 2050, according to state estimates. Eldora Mountain Resort is eyeing water storage sites to prepare for new ski runs and a drier future, and people opposed to the effort are requesting more transparency in their plans, <strong>Shannon Mullane</strong> reports.</p>
-
-<p><a target="_blank"  href="https://coloradosun.com/2024/03/12/colorado-ski-resorts-climate-change-eldora-mountain/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
-
-&nbsp;<hr />&nbsp;
-
 <h4>HEALTH</h4>
 
-<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/03/12/medical-debt-colorado-law-health-care-costs/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Colorado leads on medical debt protections, even as health care costs remain &#8220;out of control&#8221;</h2>
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/03/25/amgen-lawsuit-enbrel-pdab/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Pharmaceutical company Amgen sues Colorado over price-setting prescription drug board</h2>
 
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/Vance-CA-01.jpg?w=800" href="https://coloradosun.com/2024/03/12/medical-debt-colorado-law-health-care-costs/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p class="caption">Lindsey Vance poses for a portrait Sunday at her home in Denver. (Chloe Anderson, Colorado Newsline)</span></p>
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/AP23136569782364.jpg?w=800" href="https://coloradosun.com/2024/03/25/amgen-lawsuit-enbrel-pdab/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p class="caption">This photo shows signage outside the Amgen headquarters in Thousand Oaks, California, on Nov. 9, 2014. (AP Photo/Mark J. Terrill, File)</span></p>
 
-<p>For nearly half her life, Lindsay Vance has carried medical debt. It began stacking up when she was 19 and has prevented her from having a car, an apartment and credit cards in her name for most of her adult life. A newly enacted law aims to help the 700,000 Coloradans like Vance by removing medical debt from consumer credit reports. <strong>Sara Wilson</strong> digs into the legislation that is putting Colorado at the forefront of the issue.</p>
+<p>A multinational pharmaceutical company, Amgen, is suing the Colorado Prescription Drug Affordability Board, saying its attempt to put a price cap on its arthritis drug Enbrel is unconstitutional. The state board, created by lawmakers in 2021, aims to lower prescription costs, but Amgen argues that the board&#8217;s actions violate federal laws and want to strike down major parts of the law creating the board. <strong>John Ingold </strong>has more on the lawsuit.</p>
 
-<p><a target="_blank"  href="https://coloradosun.com/2024/03/12/medical-debt-colorado-law-health-care-costs/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
+<p><a target="_blank"  href="https://coloradosun.com/2024/03/25/amgen-lawsuit-enbrel-pdab/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
+
+&nbsp;<hr />&nbsp;
+
+<h4>EQUITY</h4>
+
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/03/26/amache-sand-creek-youth-ambassador-program/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Sand Creek and Amache descendants find common ground and look to instill history in younger generations</h2>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/05/AmacheSandCreek_HC_01.jpg?w=800" href="https://coloradosun.com/2024/03/26/amache-sand-creek-youth-ambassador-program/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p class="caption">Glenn Minoru Tagawa, an Amache descendant, hands a flower to Dale Hamilton, an Arapaho and Cheyenne descendant of the Sand Creek massacre, to place on the memorial monument at the Amache cemetery during the annual pilgrimage at the Amache National Historic Site in Granada on May 20, 2023. (Hugh Carey, The Colorado Sun)</span></p>
+
+<blockquote>&#8220;We&#8217;re just trying to bring resources to people who haven&#8217;t always been included. And that&#8217;s mostly a younger generation of descendants.&#8221;<br><br><span class="pullquote-source">— Annie Danis, a California-based researcher who has done archaeological work at the Amache site for nearly 10 years</span></blockquote>
+
+<p>Memories of two tragedies converged in the Eastern Plains last spring when descendants of the 230 Cheyenne and Arapaho people who were murdered during the Sand Creek Massacre made the pilgrimage to the incarceration camp where Japanese Americans were imprisoned during World War II. That convergence gave birth to an idea: create a youth-centered initiative to ensure that the history and remembrance extends to future generations. <strong>Kevin Simpson </strong>has the details on the concept that will soon become a reality.</p>
+
+<p><a target="_blank"  href="https://coloradosun.com/2024/03/26/amache-sand-creek-youth-ambassador-program/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
+
+&nbsp;<hr />&nbsp;
+
+<h4>POLITICS AND GOVERNMENT</h4>
+
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/03/26/colorado-gun-laws-federal-prosecution-budget-request/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Colorado lawmakers reject request to hire state lawyers to prosecute gun crimes in federal court</h2>
+
+<blockquote>&#8220;Why are we supplanting the federal government with our budget, with our taxpayers? If the governor wants to go, or if the attorney general wants to go, and impress on the federal government that they should make this a priority in Colorado, then they should go do that.&#8221;<br><br><span class="pullquote-source">— Sen. Barbara Kirkmeyer, a Brighton Republican who voted down the request</span></blockquote>
+
+<p>Colorado lawmakers rejected a request from the governor and attorney general to hire a group of lawyers to be loaned out to the federal government to prosecute gun crimes in federal court, <strong>Jesse Paul </strong>reports. The proposal, which would have set aside hundreds of thousands of dollars to hire as many as four attorneys, aimed to fill a void left after legislation in recent years rolled back a blanket prohibition barring people convicted of felonies from possessing guns. Instead, only those convicted of committing the state&#8217;s most serious felonies, like murder, rape, assault, robbery, arson and child abuse are prohibited from having a firearm.</p>
+
+<p><a target="_blank"  href="https://coloradosun.com/2024/03/26/colorado-gun-laws-federal-prosecution-budget-request/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
 
 &nbsp;<hr />&nbsp;
 
 <h4>EDUCATION</h4>
 
-<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/03/12/colorado-school-bathroom-policy-eagle-ridge-academy-brighton/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Need to use the bathroom during class? At this Colorado school, students must first show their ID.</h2>
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/03/26/colorado-school-funding-proposal-rural-per-student/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Democrats&#8217; school funding proposal would give more money to rural districts, increase per-student spending</h2>
 
-<p>Asking your teacher if you can step out for a bathroom break during class no longer requires simply raising your hand at Eagle Ridge Academy, a charter school in Brighton that now requires kids to show their student ID before dashing to the restroom. The school&#8217;s principal says the new policy seeks to cut down on loitering and vandalism, but many students are frustrated, saying they are sometimes forced to wait several hours for the restroom. <strong>Erica Breunlin </strong>has more.</p>
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/12/jeffco-schools-little-elementary-os-11.jpg?w=800" href="https://coloradosun.com/2024/03/26/colorado-school-funding-proposal-rural-per-student/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p class="caption">An elementary classroom is decorated with math and literature reminders Dec. 13, 2022, at Little Elementary School in Arvada. (Olivia Sun, The Colorado Sun via Report for America)</span></p>
 
-<p><a target="_blank"  href="https://coloradosun.com/2024/03/12/colorado-school-bathroom-policy-eagle-ridge-academy-brighton/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
+<p>Next year, Colorado school districts could see a slight bump in the amount of state funding they get per student under a bill introduced by Democratic lawmakers, who also want to devote more to rural school districts. <strong>Erica Breunlin</strong> has more on Senate Bill 188, the first school funding bill lawmakers have brought forward this legislative session.</p>
+
+<p><a target="_blank"  href="https://coloradosun.com/2024/03/26/colorado-school-funding-proposal-rural-per-student/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
 
 &nbsp;<hr />&nbsp;
 
-<h4>BUSINESS</h4>
+<h4>MORE NEWS</h4>
 
-<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/03/12/colorado-unemployment-rate-job-growth-2023/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Why Colorado had higher unemployment rates but more job growth in 2023 than the Feds reported</h2>
-
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/2024-03-12-at-08.42.49.jpg?w=800" href="https://coloradosun.com/2024/03/12/colorado-unemployment-rate-job-growth-2023/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text>
-
-<p>Colorado&#8217;s labor market last year wasn&#8217;t quite as sluggish as federal data estimated, <strong>Tamara Chuang </strong>reports. With stronger job growth and overall economic growth rates outpacing national averages, the latest revisions to the state&#8217;s numbers are painting a rosier picture.</p>
-
-<p><a target="_blank"  href="https://coloradosun.com/2024/03/12/colorado-unemployment-rate-job-growth-2023/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a><strong>, </strong><a target="_blank"  href="https://coloradosun.com/podcast/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>HEAR MORE IN TODAY&#8217;S SUN-UP PODCAST</strong></a></p>
+<ul><li><a target="_blank"  href="https://coloradosun.com/2024/03/25/cu-colorado-springs-hires-attorneys-shooting/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>Colorado university hires 2 former U.S. attorneys to review shooting, recommend any changes.</strong></a> The announcement comes after a UCCS student was charged with killing his suitemate and another person in a dorm room last month.</li>
+</ul>
 
 </mj-text><mj-table align="center"><tr class="byline-1"><td class="name">Section by <strong><a target="_blank"  target="_blank"  href="https://coloradosun.com/author/olivia-prentzel/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Olivia Prentzel</a></strong> | <span class="jobtitle">Reporter</span></td><td class="mugshot"><img class="mugshot" width="36px" height="36px" align="center" href="https://coloradosun.com/author/olivia-prentzel/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/06/rsz_1olivia_blue_bkg_1.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
 
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/01/CTiindependence-300x250-2024.jpg" width="300px" href="https://cosun.co/3On5Dar" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/Copy-of-General-Apply-Today.png" width="300px" href="https://cosun.co/3vceoho" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
 
 <h4>THE COLORADO REPORT</h4>
 
-<ul><li><a target="_blank"  href="https://www.durangoherald.com/articles/firefighter-recovering-from-fractured-skull-caused-by-falling-tree/"><strong>Firefighter recovering from fractured skull caused by falling tree.</strong></a> Jim Meyer is feeling lucky, and all it will take is one look at the crunched helmet that saved his life for you to agree with him.<br><strong>— Durango Herald</strong></li>
+<ul><li><a target="_blank"  href="https://www.denverpost.com/2024/03/25/wyatts-towing-puc-investigation-new-legislation/"><strong>How Wyatts Towing allegedly circumvented Colorado&#8217;s new towing law — and why legislators are pushing for further reform.</strong></a> During the investigation of a tow that violated the new state regulations, the Public Utilities Commission found that Wyatts had set up an email address for a private property that it used to authorize and approve its own tows, an act that the investigator says could amount to criminal fraud.<br><strong>— The Denver Post</strong></li>
 
-<li><a target="_blank"  href="https://www.9news.com/article/sports/ncaa/colorado-state-junior-mya-lesnar-wins-national-title-in-shot-put/73-b6d64146-21fb-4e21-b630-0a847fe7b19b"><strong>Colorado State's Mya Lesnar wins national title in shot put.</strong></a> Lesnar, the daughter of professional wrestling legend Brock Lesnar, is the first women&#8217;s indoor track and field national champion in CSU history. Make sure to watch the video of her winning throw to see a powerful celebration.<br><strong>— 9News</strong></li>
+<li><a target="_blank"  href="https://www.cbsnews.com/colorado/news/denver-nuggets-super-fan-banned-games-ball-arena/"><strong>Denver Nuggets super fan banned from games at Ball Arena</strong></a>. 72-year-old Vicki Ray has been sitting in the same seats since Ball Arena was the Pepsi Center, talking to players, coaches and referees. But in February she was accused of grabbing a referee, passing notes to them and hitting a player in the face — which she vehemently denies — before being banned from the games.<br><strong>— CBS Denver</strong></li>
 
-<li><a target="_blank"  href="https://denverite.com/2024/03/11/denver-overland-microcommunity-homeless-resident-concerns-safety/"><strong>Denver&#8217;s opening 60 tiny homes on Santa Fe Drive to help end street homelessness. Some neighbors say they&#8217;re scared.</strong></a> The micro community, dubbed La Paz, will open as a long-term shelter for people currently sleeping in an encampment, but at least one neighbor said they will be &#8220;collecting evidence&#8221; for a potential lawsuit against the city for allowing the community to open.<br><strong>— Denverite</strong></li>
+<li><a target="_blank"  href="https://www.chieftain.com/story/news/2024/03/25/cdots-trinidad-to-pueblo-bus-route-surpasses-milestone/73097525007/"><strong>CDOT launched a Trinidad-to-Pueblo bus route to bridge a transportation gap. Is it working?</strong></a> The smaller-scale Bustang Outrider program served more than 1,200 riders in its first year, growing consistently as it experimented with free fares.<br><strong>— The Pueblo Chieftain</strong></li>
 
-<li><a target="_blank"  href="https://www.summitdaily.com/news/high-country-advocacy-center-risk-closing/"><strong>One of the High Country&#8217;s only victim advocacy centers for child abuse might have to close its doors.</strong></a> TreeTop Child Advocacy Center has been working with high country authorities since 2017, but the nonprofit is $250,000 short of being able to operate next year.<br><strong>— Summit Daily</strong></li>
-
-<li><a target="_blank"  href="https://www.daily-times.com/story/news/2024/03/12/hantavirus-more-common-in-new-mexico-colorado-than-any-other-state/72904843007/"><strong>Colorado, New Mexico see the most hantavirus infections in the country.</strong></a> Spring and summer are the peak times for hantavirus &#8220;season&#8221; so make sure you air out anything that has been closed up all winter and remember to wear a good mask when spring cleaning anywhere that could contain rodent droppings.<br><strong>— Farmington Daily Times</strong></li>
+<li><a target="_blank"  href="https://businessden.com/2024/03/26/rebate-app-ibotta-files-to-go-public-says-it-was-profitable-last-year/"><strong>Rebate app Ibotta files to go public, says it was profitable last year.</strong></a> The Denver-based couponing app says it made $38.1 million in profits last year after losing $55 million the year before.<br><strong>— BusinessDen</strong> 🔑</li>
 </ul>
 
 <p style="text-align:center;">🔑 = <em>source has article meter or paywall</em></p>
 
 </mj-text><mj-table align="center"><tr class="byline-1"><td class="name">Section by <strong><a target="_blank"  target="_blank"  href="https://coloradosun.com/author/eric-lubbers/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Eric Lubbers</a></strong> | <span class="jobtitle">CTO & Newsletter Wrangler</span></td><td class="mugshot"><img class="mugshot" width="36px" height="36px" align="center" href="https://coloradosun.com/author/eric-lubbers/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/07/eric-ig-portrait-square.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
 
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/02/2024-MWF-300x250-Tim-V3.jpg" width="300px" href="https://cosun.co/3wfIfFA" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/02/CO-Sun_600x500-1.jpg" width="300px" href="https://cosun.co/3RjOz5v" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
 
 </mj-text><mj-text margin="0" padding="0"><h3>THE OPINION PAGE</h3></mj-text><mj-text>
 
 <h4>COMMUNITY</h4>
 
-<ul><li><a target="_blank"  href="https://coloradosun.com/2024/03/12/opinion-colorado-children-health-care-coverage/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>Colorado kids are losing health coverage at an alarming rate and we must do more to keep them insured.</strong></a><strong> </strong>State leaders have to show greater urgency in protecting children from being needlessly dropped from Medicaid coverage<br><strong>— Hunter Nelson</strong>, <em>Colorado Children&#8217;s Campaign</em></li>
+<ul><li><a target="_blank"  href="https://coloradosun.com/2024/03/26/opinion-colorado-womens-history-month-diversity/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>Colorado businesses must commit on benefits of a diverse, inclusive workforce.</strong></a> There is a solid blueprint that connects women&#8217;s voices and diversity in staffing to better insights and outcomes<br><strong>— Antoinette Gawin</strong></li>
 </ul>
 
 <p><em>The Colorado Sun is a nonpartisan news organization, and the opinions of columnists and editorial writers do not reflect the opinions of the newsroom.</em><a target="_blank"  href="https://coloradosun.com/ethics"><em> Read our ethics policy for more on The Sun&#8217;s opinion policy</em></a><em> and submit columns, suggest writers or provide feedback at </em><a target="_blank"  href="mailto:opinion@coloradosun.com"><em>opinion@coloradosun.com</em></a><em>.</em></p>
 
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/02/CO-Sun_600x500-1.jpg" width="300px" href="https://cosun.co/3RjOz5v" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/02/Loveland-Event-300-x-250-px.png" width="300px" href="https://cosun.co/49xVPmL" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
 
 </mj-text><mj-text margin="0" padding="0"><h3>SunLit</h3></mj-text>
-<mj-image width="300" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/Disneyland-cover.jpg?w=800" href="https://coloradosun.com/2024/03/10/sunlit-disneyland-on-the-mountain-greg-glasgow-kathryn-mayer/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text>
+<mj-image width="300px" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/The-Quiet-Butterfly-Cover-scaled.jpg?w=800" href="https://coloradosun.com/2024/03/24/sunlit-the-quiet-butterfly-victoria-wright?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif; font-size:0.9em;color:#949494;padding:1% 5% 0 5%;margin:0;"></em></span></p>
 
-<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/03/10/sunlit-disneyland-on-the-mountain-greg-glasgow-kathryn-mayer/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">&#8220;Disneyland on the Mountain&#8221; recounts a high-profile tussle for development rights</h2>
+<h2>In &#8220;The Quiet Butterfly&#8221; a painful separation and a search for a new life</h2>
 
-<p>At a time when Walt Disney exercised tremendous influence on American culture, he and his company set their sights on developing a massive ski area in California&#8217;s Mineral King Valley. Co-authors and spouses <strong>Kathryn Mayer</strong> and <strong>Greg Glasgow</strong> couldn&#8217;t believe no one had written a book about the competition for what turned out to be an ill-fated bid — and the fledgling environmental movement that mobilized to stop it. So they wrote it themselves, and in this week&#8217;s excerpt describe the beginnings of the star-studded effort that stretched for more than a decade.</p>
+<p>A young girl leaves behind the comfort of her closest family to embark on what becomes a journey of self-discovery with a mother trying to overcome her own personal issues. Author <strong>Victoria Wright</strong>&#8217;s young adult novel, &#8220;The Quiet Butterfly,&#8221; begins with a difficult departure and a cross-country drive to Denver. Along the way, Wright hints at ways protagonist Neepa will lean on the Native teachings of her ancestors to deal with bullies —including the one she harbors within herself.</p>
 
-<p><a target="_blank"  href="https://coloradosun.com/2024/03/10/sunlit-disneyland-on-the-mountain-greg-glasgow-kathryn-mayer/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ AN EXCERPT</strong></a></p>
+<p><a target="_blank"  href="https://coloradosun.com/2024/03/24/sunlit-the-quiet-butterfly-victoria-wright/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ AN EXCERPT</strong></a></p>
 
-<ul><li><a target="_blank"  href="https://coloradosun.com/2024/03/10/sunlit-greg-glasgow-kathryn-mayer-disneyland-on-the-mountain/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>Interview with the co-authors.</strong></a> Mayer and Glasgow decided to run with their interest and research on the Disney effort, as well as the environmental movement that opposed it. And they found that a spousal writing duo has some advantages.</li>
+<ul><li><a target="_blank"  href="https://coloradosun.com/2024/03/24/sunlit-victoria-wright-the-quiet-butterfly/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>Interview with the author. </strong></a>Wright&#8217;s first novel mirrors her own journey toward embracing her Native culture to learn more about her true self, and the key role nature plays in the process.</li>
 </ul>
 
 </mj-text><mj-table align="center"><tr class="byline-1"><td class="name">Section by <strong><a target="_blank"  target="_blank"  href="https://coloradosun.com/author/kevin-simpson/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Kevin Simpson</a></strong> | <span class="jobtitle">Writer</span></td><td class="mugshot"><img class="mugshot" width="36px" height="36px" align="center" href="https://coloradosun.com/author/kevin-simpson/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2018/08/IMG_0426.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
 
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/02/Immigration-Event-300-x-250-px.png" width="300px" href="https://cosun.co/3SGSJWl" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/Reader-Surv-300X250-3.png" width="300px" href="https://cosun.co/48HMGqe" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
 
 &nbsp;<hr />&nbsp;
 
-<p>Enjoy today&#8217;s sunshine. We hope to catch you back here tomorrow.</p>
+<p>Thanks for joining us! Have a wonderful Tuesday.</p>
 
 <p>— <em>Olivia &amp; the whole staff of The Sun</em></p>
 
@@ -146,9 +140,7 @@
 
 <p>Notice something wrong? The Colorado Sun has an ethical responsibility to <a target="_blank"  href="https://coloradosun.com/corrections/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">fix all factual errors</a>. Request a correction by emailing <a target="_blank"  href="mailto:corrections@coloradosun.com">corrections@coloradosun.com</a>.</p>
 
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/2024-Reader-Survey-4-300X250.png" width="300px" href="https://cosun.co/48HMGqe" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
-
-*|IF:STATUS != Member|**|IF:STATUS != Active Member|*</mj-text><mj-button href="https://coloradosun.com/join?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Join The Sun!</mj-button><mj-text>*|END:IF|**|END:IF|*
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/02/OJ_CO-Sun_300x250_bridge-A.jpg" width="300px" href="https://cosun.co/3PCc9fc" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
 
 <!-- FOOTER -->
 </mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>

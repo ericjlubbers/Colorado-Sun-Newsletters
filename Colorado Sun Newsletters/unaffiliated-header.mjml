@@ -12,16 +12,17 @@
 <!--  BODY -->
   <!--  IMPORT LOGO -->
   <mj-body>    <mj-section>
-      <mj-column padding="0px" background-color="#F5F5F5">
+      <mj-column padding="0px" background-color="#ffffff" border="1px #fcd232 solid">
         <mj-text mj-class="footer">
-          <a style="color:#6E6E6E;font-size:10px;font-weight:400;" href="*|ARCHIVE|*">OPEN THIS IN YOUR BROWSER</a>
+          
+          <p style="padding:0;margin:0;"><a style="color:#6E6E6E;font-size:12px;font-weight:400;" href="*|ARCHIVE|*">OPEN THIS IN YOUR BROWSER</a></p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column background-color="#ffffff">
           <mj-image width="500px" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2020/01/Unaffiliated-20200121-4000px.png?w=1600" />
-        <mj-text font-size="12px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><a href="https://coloradosun.com/account">YOUR SUN ACCOUNT</a> | <a href="http://coloradosun.com/faq">HELP & FAQ</a> | <a href="mailto:tips@coloradosun.com">SEND US A TIP</a></mj-text>
+        <mj-text font-size="12px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><a href="https://coloradosun.com/account">YOUR SUN ACCOUNT</a> | <a href="http://coloradosun.com/faq">HELP & FAQ</a> | <a href="https://www.coloradosun.com/donate?utm_source=marketing-acq&utm_medium=email&utm_campaign=donateunaffiliated">🖤DONATE</a></mj-text>
 <!--       <mj-raw>*|IF:ARCHIVE_PAGE|*</mj-raw><mj-text>
         &nbsp;<div style="border: 4px double #fcd232;padding:1em;"><p><strong>Hey there! </strong> Want to get the best free news round-up in Colorado delivered right to your inbox?</p><p style="text-decoration:none;text-align:center;font-weight:bold;font-size:18px;background-color:#F15854;color:#ffffff;padding:6px 0px;"><strong><a href="http://coloradosun.com/thesunriser" target="_blank" style="text-decoration:none;text-align:center;font-weight:bold;font-size:18px;background-color:#F15854;color:#ffffff;">Sign up for The Sunriser!</a></strong></p>
 </div>&nbsp;

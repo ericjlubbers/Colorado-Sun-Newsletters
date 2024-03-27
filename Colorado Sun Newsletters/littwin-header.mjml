@@ -24,6 +24,6 @@
       <mj-column background-color="#ffffff">
         
          <mj-text><center><img src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/02/MIKE-LITTWIN-header.png?w=900"/ style="width:90%;max-width:450px;"/></center></mj-text>
-         <mj-text font-size="12px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><a href="https://coloradosun.com/account">YOUR SUN ACCOUNT</a> | <a href="http://coloradosun.com/faq">HELP & FAQ</a> | <a href="mailto:tips@coloradosun.com">SEND US A TIP</a></mj-text>
+         <mj-text font-size="12px" font-family="'Libre Franklin',Arial,sans-serif;" align="center" padding="0px 0px 0px 0px"><a href="https://coloradosun.com/account">YOUR SUN ACCOUNT</a> | <a href="http://coloradosun.com/faq">HELP & FAQ</a> | <a href="https://www.coloradosun.com/donate?utm_source=marketing-acq&utm_medium=email&utm_campaign=donatelittwin">🖤DONATE</a></mj-text>
       </mj-column>
     </mj-section>
