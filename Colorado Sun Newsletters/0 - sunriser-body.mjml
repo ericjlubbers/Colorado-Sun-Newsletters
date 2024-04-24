@@ -1,4 +1,3 @@
-
 <mj-include path="./sunriser-header.mjml" />
  
 <mj-section>
@@ -6,133 +5,130 @@
 <mj-text>
 <h4>NEWS&nbsp;&nbsp;&nbsp;<span style="color:#949494;font-weight:400;">*|DATE:l, F j, Y|*</span></h4>
 
-<h1>Pharmaceutical company goes after Colorado&#8217;s price-setting board</h1>
+<h1>Students ferrying to school amid bridge closure</h1>
 
-<p><em>Plus: Sand Creek and Amache descendants unite, lawmakers reject gun prosecutor request, Dems propose per-student spending increase and more</em></p>
+<p><em>Plus: Ranchers demand wolves be put down, what&#8217;s in the property tax relief bill, Xcel&#8217;s EV plan cut by regulators and more</em></p>
 
 &nbsp;<hr />&nbsp;
 
-<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">G</span>ood morning, Colorado.</p>
+<p style="line-height:24px;"><span style="font-size:48px;line-height:12px;">S</span>ome of my favorite journalism stories are the ones I like to call &#8220;slice of life&#8221; stories — those that give us a peek into people&#8217;s daily routines that can feel ordinary to one reader and extraordinary to the next.</p>
 
-<p>I tried Afghan food for the first time last night at a restaurant in Colorado Springs and it was delicious. I ordered a traditional Afghan eggplant dish, simmered in tomato sauce and homemade yogurt, and kabuli pulao, the country&#8217;s national dish made of rice seasoned with cardamom, caramelized carrots and raisins and marinated lamb.</p>
+<p>Yesterday, I talked with a parent whose kids had to take <a target="_blank"  href="https://coloradosun.com/2024/04/23/us-50-bridge-closure-gunnison-students-detour/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">a 30-minute boat ride across Colorado&#8217;s largest reservoir</a>, instead of the bus, to join their classmates in Gunnison after the U.S. 50 bridge was abruptly shut down from a 3-inch crack in structural steel. On their morning commute, they wore life jackets over their snowsuits to brave 20-degree temperatures. To get home, they faced the rolling waters and whipping winds that are typical on any given afternoon on Blue Mesa.</p>
 
-<p>I discovered the restaurant through a book club with returned Peace Corps volunteers — every other month we read a book about a country where we lived as volunteers, then discuss it over a meal from that country. It&#8217;s a fun and relatively easy way to learn about places that feel far, far away, but maybe aren&#8217;t so different from home.</p>
+<p>Sounds extraordinary to me. (Though as I learned, some of them take snowmobiles to their bus stop in the winter, so I am sure these kids were cut out for the adventure on the reservoir.)</p>
 
-<p>Speaking of learning something new, this morning&#8217;s newsletter is packed with news that is sure to teach us a fact or two. (Sadly, no international meal is included, though it sure goes well with a warm cup of coffee.)</p>
+<p>The story also reminded me of The Colorado Sun&#8217;s statewide reach and commitment to tell Coloradans&#8217; stories. When we learned about kids riding a boat to get home from school, two of our photographers on the Western Slope jumped in their cars to help tell their story from either side of the reservoir.</p>
+
+<p>We&#8217;ve got a packed newsletter this morning, so let&#8217;s get reading.</p>
 
 <!-- BYLINE -->
 </mj-text><mj-table><tr class="byline-0-single"><td class="name"><strong><a target="_blank"  target="_blank"  href="https://coloradosun.com/author/olivia-prentzel/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Olivia Prentzel</a></strong><br /><span class="jobtitle">Reporter</span></td><td class="mugshot"><img class="mugshot" href="https://coloradosun.com/author/olivia-prentzel/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/06/rsz_1olivia_blue_bkg_1.jpg?resize=96,96"/></td></tr></mj-table><mj-text>
 
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/01/CTiindependence-300x250-2024.jpg" width="300px" href="https://cosun.co/3On5Dar" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+*|IF:MEMBERSHIP = 0|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://coloradosun.com/join?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Join The Sun!</mj-button><mj-text>*|END:IF|**|END:IF|**|IF:ARCHIVE_PAGE|*</mj-text><mj-button href="https://coloradosun.com/join?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Join The Sun!</mj-button><mj-text>*|END:IF|*
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/04/Colorado-Sun-Classes-for-Beginners-Updated-01-1.png" width="300px" href="https://cosun.co/3Q3ilN7" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
 
 </mj-text><mj-text margin="0" padding="0"><h3>THE NEWS</h3></mj-text><mj-text>
 
-<h4>HEALTH</h4>
+<h4>AGRICULTURE</h4>
 
-<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/03/25/amgen-lawsuit-enbrel-pdab/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Pharmaceutical company Amgen sues Colorado over price-setting prescription drug board</h2>
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/04/23/ranchers-demand-colorado-kill-depredating-wolves/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Ranchers in three counties demand Colorado officials kill four wolves responsible for six dead cows</h2>
 
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/AP23136569782364.jpg?w=800" href="https://coloradosun.com/2024/03/25/amgen-lawsuit-enbrel-pdab/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p class="caption">This photo shows signage outside the Amgen headquarters in Thousand Oaks, California, on Nov. 9, 2014. (AP Photo/Mark J. Terrill, File)</span></p>
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/04/AgMental_HC_11.jpg?w=800" href="https://coloradosun.com/2024/04/23/ranchers-demand-colorado-kill-depredating-wolves/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p class="caption">Cows and their calves graze the fields, April 9, in Grand County. (Hugh Carey, The Colorado Sun)</span></p>
 
-<p>A multinational pharmaceutical company, Amgen, is suing the Colorado Prescription Drug Affordability Board, saying its attempt to put a price cap on its arthritis drug Enbrel is unconstitutional. The state board, created by lawmakers in 2021, aims to lower prescription costs, but Amgen argues that the board&#8217;s actions violate federal laws and want to strike down major parts of the law creating the board. <strong>John Ingold </strong>has more on the lawsuit.</p>
+<blockquote>&#8220;The tenuous nature of these now chronic depredation events requires a greater level of communication, transparency and commitment to the stewards of agriculture who keep our great state fed.&#8221;<br><br><span class="pullquote-source">— From a letter from the Larimer County Stockgrowers Association to the governor and Colorado Parks and Wildlife</span></blockquote>
 
-<p><a target="_blank"  href="https://coloradosun.com/2024/03/25/amgen-lawsuit-enbrel-pdab/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
+<p>Ranchers in Grand, Jackson and Larimer counties and a sheriff have sent six letters in the past week asking Gov. Jared Polis and Colorado Parks and Wildlife to kill four wolves blamed for the death of six cows in the past 16 days. <strong>Tracy Ross</strong> parsed through their requests and spoke to CPW to see what the state plans to do to address the killings.</p>
 
-&nbsp;<hr />&nbsp;
-
-<h4>EQUITY</h4>
-
-<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/03/26/amache-sand-creek-youth-ambassador-program/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Sand Creek and Amache descendants find common ground and look to instill history in younger generations</h2>
-
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/05/AmacheSandCreek_HC_01.jpg?w=800" href="https://coloradosun.com/2024/03/26/amache-sand-creek-youth-ambassador-program/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p class="caption">Glenn Minoru Tagawa, an Amache descendant, hands a flower to Dale Hamilton, an Arapaho and Cheyenne descendant of the Sand Creek massacre, to place on the memorial monument at the Amache cemetery during the annual pilgrimage at the Amache National Historic Site in Granada on May 20, 2023. (Hugh Carey, The Colorado Sun)</span></p>
-
-<blockquote>&#8220;We&#8217;re just trying to bring resources to people who haven&#8217;t always been included. And that&#8217;s mostly a younger generation of descendants.&#8221;<br><br><span class="pullquote-source">— Annie Danis, a California-based researcher who has done archaeological work at the Amache site for nearly 10 years</span></blockquote>
-
-<p>Memories of two tragedies converged in the Eastern Plains last spring when descendants of the 230 Cheyenne and Arapaho people who were murdered during the Sand Creek Massacre made the pilgrimage to the incarceration camp where Japanese Americans were imprisoned during World War II. That convergence gave birth to an idea: create a youth-centered initiative to ensure that the history and remembrance extends to future generations. <strong>Kevin Simpson </strong>has the details on the concept that will soon become a reality.</p>
-
-<p><a target="_blank"  href="https://coloradosun.com/2024/03/26/amache-sand-creek-youth-ambassador-program/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
+<p><a target="_blank"  href="https://coloradosun.com/2024/04/23/ranchers-demand-colorado-kill-depredating-wolves/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
 
 &nbsp;<hr />&nbsp;
 
-<h4>POLITICS AND GOVERNMENT</h4>
+<h4>POLITICS &amp; GOVERNMENT</h4>
 
-<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/03/26/colorado-gun-laws-federal-prosecution-budget-request/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Colorado lawmakers reject request to hire state lawyers to prosecute gun crimes in federal court</h2>
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/04/23/colorado-property-tax-overhaul-2024/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Democrats are set to unveil their Colorado property tax relief plan this week. Here&#8217;s what&#8217;s in it.</h2>
 
-<blockquote>&#8220;Why are we supplanting the federal government with our budget, with our taxpayers? If the governor wants to go, or if the attorney general wants to go, and impress on the federal government that they should make this a priority in Colorado, then they should go do that.&#8221;<br><br><span class="pullquote-source">— Sen. Barbara Kirkmeyer, a Brighton Republican who voted down the request</span></blockquote>
+<p>On Democrats&#8217; docket in the Colorado legislature this week is a measure that would overhaul the state&#8217;s property tax system to limit future spikes in businesses&#8217; and homeowners&#8217; tax bills. The goal is to provide more relief to people who own lower-value homes. In today&#8217;s story, <strong>Jesse Paul</strong> and <strong>Brian Eason</strong> spoke to the main sponsor of legislation, which is facing conservative groups pushing for larger property tax cuts.</p>
 
-<p>Colorado lawmakers rejected a request from the governor and attorney general to hire a group of lawyers to be loaned out to the federal government to prosecute gun crimes in federal court, <strong>Jesse Paul </strong>reports. The proposal, which would have set aside hundreds of thousands of dollars to hire as many as four attorneys, aimed to fill a void left after legislation in recent years rolled back a blanket prohibition barring people convicted of felonies from possessing guns. Instead, only those convicted of committing the state&#8217;s most serious felonies, like murder, rape, assault, robbery, arson and child abuse are prohibited from having a firearm.</p>
-
-<p><a target="_blank"  href="https://coloradosun.com/2024/03/26/colorado-gun-laws-federal-prosecution-budget-request/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
+<p><a target="_blank"  href="https://coloradosun.com/2024/04/23/colorado-property-tax-overhaul-2024/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
 
 &nbsp;<hr />&nbsp;
 
-<h4>EDUCATION</h4>
+<h4>TRANSPORTATION</h4>
 
-<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/03/26/colorado-school-funding-proposal-rural-per-student/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Democrats&#8217; school funding proposal would give more money to rural districts, increase per-student spending</h2>
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/04/23/us-50-bridge-closure-gunnison-students-detour/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Gunnison students take boat ride across Blue Mesa Reservoir to get to class around bridge closure</h2>
 
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2022/12/jeffco-schools-little-elementary-os-11.jpg?w=800" href="https://coloradosun.com/2024/03/26/colorado-school-funding-proposal-rural-per-student/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p class="caption">An elementary classroom is decorated with math and literature reminders Dec. 13, 2022, at Little Elementary School in Arvada. (Olivia Sun, The Colorado Sun via Report for America)</span></p>
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/04/Hwy50closure_HC_01.jpg?w=800" href="https://coloradosun.com/2024/04/23/us-50-bridge-closure-gunnison-students-detour/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p class="caption">Zayn Amys, first grader at Community Elementary School, disembarks the boat while traveling home from school Monday at the Lake Fork Boat Ramp on the Blue Mesa Reservoir near Montrose. Due to the bridge closure on U.S. 50, students were forced to get home from school by boat and boarded Sapinero resident Joe Rota's craft to make the trip. (Hugh Carey, The Colorado Sun)</span></p>
 
-<p>Next year, Colorado school districts could see a slight bump in the amount of state funding they get per student under a bill introduced by Democratic lawmakers, who also want to devote more to rural school districts. <strong>Erica Breunlin</strong> has more on Senate Bill 188, the first school funding bill lawmakers have brought forward this legislative session.</p>
+<blockquote>&#8220;It is very cold in the morning — 20-something degrees, and so everyone was in their snowsuits with a lifejacket on.&#8221;<br><br><span class="pullquote-source">— Kendal Rota, mother of three who drove students to school in Gunnison on a minibus before the bridge shut down</span></blockquote>
 
-<p><a target="_blank"  href="https://coloradosun.com/2024/03/26/colorado-school-funding-proposal-rural-per-student/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
+<p>A group of students braved the elements — icy rain, whipping winds and choppy waters — this week on their way to school in Gunnison. It wasn't part of a field trip, but the only way to get to school on time after the U.S. 50 bridge over Blue Mesa Reservoir shut down last week. Transportation crews are still inspecting the bridge to determine how they can repair it, CDOT said Monday. But a timeline for reopening is still unclear, leaving thousands of residents forced to scramble for solutions to get to work, doctor appointments and go about daily life in the meantime.</p>
+
+<p><a target="_blank"  href="https://coloradosun.com/2024/04/23/us-50-bridge-closure-gunnison-students-detour/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
+
+&nbsp;<hr />&nbsp;
+
+<h4>ENERGY</h4>
+
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/04/23/xcel-electric-vehicle-charger-rebate-plan-colorado/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">Xcel&#8217;s plan for new EV chargers, rebates cut 40% by Colorado regulators</h2>
+
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/07/EV-electric-charging-network-os-3-scaled.jpg?w=800" href="https://coloradosun.com/2024/04/23/xcel-electric-vehicle-charger-rebate-plan-colorado/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p class="caption">A bank of electric vehicle chargers is one of the first to be included at a Colorado Kum &amp; Go gas station and convenience store in Wellington. (Olivia Sun, The Colorado Sun via Report for America)</span></p>
+
+<p>Xcel failed to win over state utility regulators to its ambitious and expensive plan to develop the state&#8217;s infrastructure to serve electric cars, <strong>Mark Jaffe</strong> reports. In an April 10 decision, the PUC cut Xcel&#8217;s transportation electrification plan by 40%, saying it failed to demonstrate it would be cost effective and lead to more people buying and using EVs.</p>
+
+<p><a target="_blank"  href="https://coloradosun.com/2024/04/23/xcel-electric-vehicle-charger-rebate-plan-colorado/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ MORE</strong></a></p>
 
 &nbsp;<hr />&nbsp;
 
 <h4>MORE NEWS</h4>
 
-<ul><li><a target="_blank"  href="https://coloradosun.com/2024/03/25/cu-colorado-springs-hires-attorneys-shooting/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>Colorado university hires 2 former U.S. attorneys to review shooting, recommend any changes.</strong></a> The announcement comes after a UCCS student was charged with killing his suitemate and another person in a dorm room last month.</li>
+<ul><li><a target="_blank"  href="https://coloradosun.com/2024/04/23/denver-prodigy-coffeehouse-globeville-apprentices-construction/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>A unique Denver coffee shop has lost half its business due to nearby construction. It&#8217;s pleading for community help.</strong></a> Prodigy Coffeehouse, which trains young adults through an apprenticeship program, has struggled to retain customers through heavy construction, <strong>Erica Breunlin </strong>reports.</li>
 </ul>
 
 </mj-text><mj-table align="center"><tr class="byline-1"><td class="name">Section by <strong><a target="_blank"  target="_blank"  href="https://coloradosun.com/author/olivia-prentzel/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Olivia Prentzel</a></strong> | <span class="jobtitle">Reporter</span></td><td class="mugshot"><img class="mugshot" width="36px" height="36px" align="center" href="https://coloradosun.com/author/olivia-prentzel/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/06/rsz_1olivia_blue_bkg_1.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
 
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/Copy-of-General-Apply-Today.png" width="300px" href="https://cosun.co/3vceoho" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/02/OJ_CO-Sun_300x250_bridge-A.jpg" width="300px" href="https://cosun.co/3PCc9fc" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+&nbsp;<div style="border: 4px double #fcd232;padding:1em;"><p>What do you want candidates to talk about during the 2024 election as they compete for your vote? Our survey is still open. <a target="_blank"  href="https://coloradosun.com/2024/04/02/voter-voices-2024-help-us-report/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Tell us what you think!</a></p></div>&nbsp;
 
 <h4>THE COLORADO REPORT</h4>
 
-<ul><li><a target="_blank"  href="https://www.denverpost.com/2024/03/25/wyatts-towing-puc-investigation-new-legislation/"><strong>How Wyatts Towing allegedly circumvented Colorado&#8217;s new towing law — and why legislators are pushing for further reform.</strong></a> During the investigation of a tow that violated the new state regulations, the Public Utilities Commission found that Wyatts had set up an email address for a private property that it used to authorize and approve its own tows, an act that the investigator says could amount to criminal fraud.<br><strong>— The Denver Post</strong></li>
+<ul><li><a target="_blank"  href="https://www.denverpost.com/2024/04/22/kroger-albertsons-merger-sell-more-stores/"><strong>Kroger, Albertsons — still hoping to merge — agree to sell more stores to satisfy regulators.</strong></a> As the Federal Trade Commission&#8217;s suit to block the merger continues, the chains said they would sell 579 Kroger and Albertsons stores in markets where they overlap. The coalition of unions that represents grocery workers in the chains said the plan would still be woefully inadequate to prevent store closures and keep prices in check.<br><strong>— The Denver Post 🔑</strong></li>
 
-<li><a target="_blank"  href="https://www.cbsnews.com/colorado/news/denver-nuggets-super-fan-banned-games-ball-arena/"><strong>Denver Nuggets super fan banned from games at Ball Arena</strong></a>. 72-year-old Vicki Ray has been sitting in the same seats since Ball Arena was the Pepsi Center, talking to players, coaches and referees. But in February she was accused of grabbing a referee, passing notes to them and hitting a player in the face — which she vehemently denies — before being banned from the games.<br><strong>— CBS Denver</strong></li>
+<li><a target="_blank"  href="https://www.cpr.org/2024/04/21/public-access-hanging-lake-limited-summer-trail-reconstruction-work/"><strong>Public access to Hanging Lake and its trails will be limited this summer for trail reconstruction work.</strong></a> Starting in May, crews will start renovating trails damaged during the Grizzly Creek fire in 2020, meaning that the trail will be closed on weekdays for most of the summer.<br><strong>— CPR News</strong></li>
 
-<li><a target="_blank"  href="https://www.chieftain.com/story/news/2024/03/25/cdots-trinidad-to-pueblo-bus-route-surpasses-milestone/73097525007/"><strong>CDOT launched a Trinidad-to-Pueblo bus route to bridge a transportation gap. Is it working?</strong></a> The smaller-scale Bustang Outrider program served more than 1,200 riders in its first year, growing consistently as it experimented with free fares.<br><strong>— The Pueblo Chieftain</strong></li>
+<li><a target="_blank"  href="https://businessden.com/2024/04/23/florist-cites-rent-increase-for-move-from-brown-palace/"><strong>Florist cites rent increase for move from Brown Palace.</strong></a> &#8220;I can&#8217;t sell enough flowers, even if I was open 24 hours, to pay $10,000 a month,&#8221; said BJ Dyer of the 650-square-foot space in the Brown Palace complex where his Bouquets business has operated for four years.<br><strong>— BusinessDen 🔑</strong></li>
 
-<li><a target="_blank"  href="https://businessden.com/2024/03/26/rebate-app-ibotta-files-to-go-public-says-it-was-profitable-last-year/"><strong>Rebate app Ibotta files to go public, says it was profitable last year.</strong></a> The Denver-based couponing app says it made $38.1 million in profits last year after losing $55 million the year before.<br><strong>— BusinessDen</strong> 🔑</li>
+<li><a target="_blank"  href="https://www.aspendailynews.com/news/krabloonik-canines-set-for-adoption/article_007d0eaa-0123-11ef-a150-f7f9e90196d7.html"><strong>Krabloonik canines set for adoption.</strong></a> As the Krabloonik Dog Sledding business winds down to vacate its Snowmass Village-owned land, there are still 25 sled dogs (of the 150 living at the property at the beginning of the winter) that have not been claimed by new owners and are available at no charge — after an application is reviewed.<br><strong>— Aspen Daily News</strong></li>
 </ul>
 
 <p style="text-align:center;">🔑 = <em>source has article meter or paywall</em></p>
 
 </mj-text><mj-table align="center"><tr class="byline-1"><td class="name">Section by <strong><a target="_blank"  target="_blank"  href="https://coloradosun.com/author/eric-lubbers/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Eric Lubbers</a></strong> | <span class="jobtitle">CTO & Newsletter Wrangler</span></td><td class="mugshot"><img class="mugshot" width="36px" height="36px" align="center" href="https://coloradosun.com/author/eric-lubbers/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2021/07/eric-ig-portrait-square.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
 
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/01/MCJ_COSun_WhatsWorking_300x250_AllAudiences_1.jpg" width="300px" href="https://cosun.co/4aQnCQl" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
 </mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2023/02/CO-Sun_600x500-1.jpg" width="300px" href="https://cosun.co/3RjOz5v" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
 
-</mj-text><mj-text margin="0" padding="0"><h3>THE OPINION PAGE</h3></mj-text><mj-text>
-
-<h4>COMMUNITY</h4>
-
-<ul><li><a target="_blank"  href="https://coloradosun.com/2024/03/26/opinion-colorado-womens-history-month-diversity/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>Colorado businesses must commit on benefits of a diverse, inclusive workforce.</strong></a> There is a solid blueprint that connects women&#8217;s voices and diversity in staffing to better insights and outcomes<br><strong>— Antoinette Gawin</strong></li>
-</ul>
-
-<p><em>The Colorado Sun is a nonpartisan news organization, and the opinions of columnists and editorial writers do not reflect the opinions of the newsroom.</em><a target="_blank"  href="https://coloradosun.com/ethics"><em> Read our ethics policy for more on The Sun&#8217;s opinion policy</em></a><em> and submit columns, suggest writers or provide feedback at </em><a target="_blank"  href="mailto:opinion@coloradosun.com"><em>opinion@coloradosun.com</em></a><em>.</em></p>
-
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/02/Loveland-Event-300-x-250-px.png" width="300px" href="https://cosun.co/49xVPmL" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
-
 </mj-text><mj-text margin="0" padding="0"><h3>SunLit</h3></mj-text>
-<mj-image width="300px" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/The-Quiet-Butterfly-Cover-scaled.jpg?w=800" href="https://coloradosun.com/2024/03/24/sunlit-the-quiet-butterfly-victoria-wright?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text><p style="font-size:12px;font-family:'Libre Franklin',Arial,sans-serif; font-size:0.9em;color:#949494;padding:1% 5% 0 5%;margin:0;"></em></span></p>
+<mj-image width="300" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/04/5.-NQDG-Cover.jpg?w=800" href="https://coloradosun.com/?p=380096?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" target="_blank"/><mj-text>
 
-<h2>In &#8220;The Quiet Butterfly&#8221; a painful separation and a search for a new life</h2>
+<h2 style="padding-bottom:0;margin-bottom:0;"><a target="_blank"  href="https://coloradosun.com/2024/04/21/sunlit-not-quite-dead-geniuses-gary-raham/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" style="text-decoration:none;color:#003D5A;">In &#8220;Not Quite Dead Geniuses&#8221; diverse life forms create an unusual alliance</h2>
 
-<p>A young girl leaves behind the comfort of her closest family to embark on what becomes a journey of self-discovery with a mother trying to overcome her own personal issues. Author <strong>Victoria Wright</strong>&#8217;s young adult novel, &#8220;The Quiet Butterfly,&#8221; begins with a difficult departure and a cross-country drive to Denver. Along the way, Wright hints at ways protagonist Neepa will lean on the Native teachings of her ancestors to deal with bullies —including the one she harbors within herself.</p>
+<p>When a trained biologist like <strong>Gary Raham</strong> takes on the world of science fiction, the results are nuanced, occasionally humorous and unavoidably complex. In &#8220;Not Quite Dead Geniuses at Large on an Angry Planet&#8221; — the fourth entry in his &#8220;Dead Genius&#8221; series — his characters encompass a broad range of biological forms, and that&#8217;s not counting the artificial intelligence that whispers to them.</p>
 
-<p><a target="_blank"  href="https://coloradosun.com/2024/03/24/sunlit-the-quiet-butterfly-victoria-wright/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ AN EXCERPT</strong></a></p>
+<p><a target="_blank"  href="https://coloradosun.com/?p=380096?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>READ AN EXCERPT</strong></a></p>
 
-<ul><li><a target="_blank"  href="https://coloradosun.com/2024/03/24/sunlit-victoria-wright-the-quiet-butterfly/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>Interview with the author. </strong></a>Wright&#8217;s first novel mirrors her own journey toward embracing her Native culture to learn more about her true self, and the key role nature plays in the process.</li>
+<ul><li><a target="_blank"  href="https://coloradosun.com/2024/04/21/sunlit-gary-raham-not-quite-dead-geniuses/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email"><strong>Interview with the author.</strong></a> Raham explains why he goes beyond the basic human/alien premise of lots of traditional science fiction to bring a host of other life forms into the conversation. </li>
 </ul>
 
 </mj-text><mj-table align="center"><tr class="byline-1"><td class="name">Section by <strong><a target="_blank"  target="_blank"  href="https://coloradosun.com/author/kevin-simpson/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Kevin Simpson</a></strong> | <span class="jobtitle">Writer</span></td><td class="mugshot"><img class="mugshot" width="36px" height="36px" align="center" href="https://coloradosun.com/author/kevin-simpson/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email" src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2018/08/IMG_0426.jpg?resize=96,96" /></td></tr></mj-table><mj-text>
 
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/03/Reader-Surv-300X250-3.png" width="300px" href="https://cosun.co/48HMGqe" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/04/1.png" width="300px" href="https://cosun.co/49Je87B" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
 
 &nbsp;<hr />&nbsp;
 
-<p>Thanks for joining us! Have a wonderful Tuesday.</p>
+<p>Thanks for reading until the very end! Have a wonderful Tuesday.</p>
 
 <p>— <em>Olivia &amp; the whole staff of The Sun</em></p>
 
@@ -140,7 +136,9 @@
 
 <p>Notice something wrong? The Colorado Sun has an ethical responsibility to <a target="_blank"  href="https://coloradosun.com/corrections/?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">fix all factual errors</a>. Request a correction by emailing <a target="_blank"  href="mailto:corrections@coloradosun.com">corrections@coloradosun.com</a>.</p>
 
-</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/02/OJ_CO-Sun_300x250_bridge-A.jpg" width="300px" href="https://cosun.co/3PCc9fc" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+</mj-text><mj-image src="https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/04/Event-2024-Post-legislative-session-300-x-250-px.png" width="300px" href="https://cosun.co/4cIYY51" target="_blank" padding="0px 0px 8px" /><mj-text>&nbsp;
+
+*|IF:MEMBERSHIP = 0|**|IFNOT:ARCHIVE_PAGE|*</mj-text><mj-button href="https://coloradosun.com/join?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Join The Sun!</mj-button><mj-text>*|END:IF|**|END:IF|**|IF:ARCHIVE_PAGE|*</mj-text><mj-button href="https://coloradosun.com/join?utm_source=newsletter&utm_source=The+Colorado+Sun+Newsletters&utm_campaign=*|MC:SUBJECT|*_*|DATE:Ymd|*&utm_medium=email">Join The Sun!</mj-button><mj-text>*|END:IF|*
 
 <!-- FOOTER -->
 </mj-text></mj-column></mj-section><mj-include path="./footer-slim.mjml" /></mj-body></mjml>
